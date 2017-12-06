@@ -33,18 +33,32 @@ Required resources used in this course:
 
 ### General
 - 🙌  Locker Project -- https://github.com/LockerProject ⇒ https://github.com/Singly/hallway 
-- Reporter App -- http://www.reporter-app.com/
+- Reporter App ($4.99) -- http://www.reporter-app.com/
 - Mobile data usage -- https://www.lifewire.com/apps-to-monitor-data-usage-for-iphone-3426710 
-
+- Rescue Time: https://www.rescuetime.com/
+- 🙌 Notebook App: http://www.notebooksapp.com/
 
 # Resources
 
+## Books & Reading
+
+- Slow Data, Stephen Few: https://www.perceptualedge.com/blog/?p=1460
+
 ## Talks
 
-- 10 years of tracking, Lillian Karabaic: https://vimeo.com/227181779
-- Optimizing for Happiness & Considering Everything: https://www.youtube.com/watch?v=n2rpIjWGeUY
+- Lillian Karabaic, 10 years of tracking: https://vimeo.com/227181779
+- J.Paul Neeley, Optimizing for Happiness & Considering Everything: https://www.youtube.com/watch?v=n2rpIjWGeUY
     + blog post: https://www.jpaulneeley.com/mmsz.html
-
+- Nicholas Felton, The Feltron Report:
+    + on GestaltenTV: https://vimeo.com/70340564
+    + 2011 EYEO Festival: https://vimeo.com/27800118
+    + NYTimes, A Quantified Life: https://www.youtube.com/watch?v=QvAFp5j7nRI
+    + Accumulations, 2016: https://www.youtube.com/watch?v=bxYuLAvVqXM
+- Dear Data, Georgia Lupi & Stefanie Posavek:
+    + At the Guggenheim: https://www.youtube.com/watch?v=r4AYrb7Gofg
+    + Pop Tech, Data is About People: https://www.youtube.com/watch?v=SbqNEKygFiA
+    + TedTalk: https://www.youtube.com/watch?v=sFIDCtRX_-o
+    + DataStori.es Podcast Episode: http://datastori.es/dear-data-with-giorgia-lupi-and-stefanie-posavec-ds64/
 
 ## Data
 
