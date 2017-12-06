@@ -6,7 +6,7 @@ Repo for NYU's ITP "Quant Humanists: the 'I' in API" course
 
 ## Hello
 **Instructors**: Aurelia Moser (@auremoser // auremoser@gmail.com) & Joey Lee (@leejoeyk // j@jk-lee.com) <br>
-**Time**: Mondays 6:30pm to 9:25pm in **ROOM 15** // Jan. 22 - Apr. 23<br>
+**Time**: Mondays 6:30pm to 9:25pm in **ROOM 15** // Jan. 22 - Apr. 9<br>
 **Total Meetings**: 12 // 4 Point Course<br>
 **Office Hours**:Fridays, 4-5pm<br>
 **Category**: 4 Point, All, Elective, Evening, Monday, New, Yes<br>
@@ -63,8 +63,37 @@ Here is a basic breakdown of graded tasks along that trajectory:
 
 See <a href="MATERIALS.MD" target="_blank">MATERIALS.MD</a> for details on course materials such as quantified self apps, APIs, links to data, and more!
 
-## Syllabus
+## Class Calendar
 
+
+| WEEK  |  DATE  | ASSIGNMENT DUE  | PRACTICE | NOTE |
+| :---- | ------ | ----------- | -------- | ---- |
+|  1   |  01/22/2018  | Assignment  | Placeholder | Placeholder |
+|  2   |  01/29/2018  | Assignment  | Placeholder | Placeholder |
+|  3   |  02/05/2018  | Assignment  | Placeholder | Placeholder |
+|  4   |  02/12/2018  | Assignment  | Placeholder | Placeholder |
+|  5   |  02/19/2018  | Assignment  | Placeholder | Placeholder |
+|  6   |  02/26/2018  | Assignment  | Placeholder | Placeholder |
+|  7   |  03/05/2018  | Assignment  | Placeholder | Placeholder |
+|  8   |  03/12/2018  | Assignment  | Placeholder | Placeholder |
+|  9   |  03/19/2018  | Assignment  | Placeholder | Placeholder |
+|  10  |  03/26/2018  | Assignment  | Placeholder | Placeholder|
+| 11   |  04/02/2018  | Assignment  | Placeholder | Placeholder |
+| 12   |  04/09/2018  | Final Projects Due & Presentations | Placeholder | Placeholder |
+
+
+### Week 1: Introduction & Setup
+### Week 2: Quantitative Self: Activity tracking, sensors, and APIs
+### Week 3: Qualitative Self: Emotion tracking and other harder to quantify things 
+### Week 4: Mixed Methods, Validation, & Analysis
+### Week 5: Unquantified Self: Hack the trackers
+### Week 6: The Value of Your Data
+### Week 7: Quant Self as a Service
+### Week 8: Special Topics
+### Week 9: Special Topics
+### Week 10: Special Topics & Final Project Mid Review
+### Week 11: Special Topics & Final Project Development
+### Week 12: Final Class & Project Presentations
 
 
 
