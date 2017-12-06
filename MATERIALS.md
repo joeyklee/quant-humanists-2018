@@ -55,6 +55,7 @@ Required resources used in this course:
     + NYTimes, A Quantified Life: https://www.youtube.com/watch?v=QvAFp5j7nRI
     + Accumulations, 2016: https://www.youtube.com/watch?v=bxYuLAvVqXM
 - Dear Data, Georgia Lupi & Stefanie Posavek:
+    + Stephanie Posavec: Fragmented portraits in data & drawings: https://www.youtube.com/watch?v=LVQNzoNIv-8
     + At the Guggenheim: https://www.youtube.com/watch?v=r4AYrb7Gofg
     + Pop Tech, Data is About People: https://www.youtube.com/watch?v=SbqNEKygFiA
     + TedTalk: https://www.youtube.com/watch?v=sFIDCtRX_-o
