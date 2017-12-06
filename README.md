@@ -1,15 +1,16 @@
 # Quant Humanists: the 'I' in API (Spring 2018)
 
 [![Join the chat at https://gitter.im/joeyklee/quant-humanists-2018](https://badges.gitter.im/joeyklee/quant-humanists-2018.svg)](https://gitter.im/joeyklee/quant-humanists-2018?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Repo for NYU's ITP "Quant Humanists: the 'I' in API" course
 
 ## Hello
-**Instructors**: Aurelia Moser (@auremoser // auremoser@gmail.com) & Joey Lee (@leejoeyk // j@jk-lee.com)
-**Time**: Mondays 6:30pm to 9:25pm in **ROOM 15** // Jan. 22 - Apr. 23
-**Total Meetings**: 12 // 4 Point Course
-**Office Hours**: Fridays, 4-5pm
-**Category**: 4 Point, All, Elective, Evening, Monday, New, Yes
-**Tags**: data, design, programming, quantifiedself | 
+**Instructors**: Aurelia Moser (@auremoser // auremoser@gmail.com) & Joey Lee (@leejoeyk // j@jk-lee.com) <br>
+**Time**: Mondays 6:30pm to 9:25pm in **ROOM 15** // Jan. 22 - Apr. 23<br>
+**Total Meetings**: 12 // 4 Point Course<br>
+**Office Hours**: Fridays, 4-5pm<br>
+**Category**: 4 Point, All, Elective, Evening, Monday, New, Yes<br>
+**Tags**: data, design, programming, quantifiedself | <br>
 
 
 NOTE: This syllabus is subject to change, and will be updated weekly. Star or bookmark and check often!
