@@ -5,7 +5,7 @@
 Repo for NYU's ITP "Quant Humanists: the 'I' in API" course
 
 ## Hello
-**Instructors**: Aurelia Moser (@auremoser // auremoser@gmail.com) & Joey Lee (@leejoeyk // j@jk-lee.com) <br>
+**Instructors**: Aurelia Moser (@auremoser // auremoser@gmail.com) & Joey Lee (@leejoeyk // josephkanglee@gmail.com ) <br>
 **Time**: Mondays 6:30pm to 9:25pm in **ROOM 15** // Jan. 22 - Apr. 9<br>
 **Total Meetings**: 12 // 4 Point Course<br>
 **Office Hours**:Fridays, 4-5pm<br>
@@ -68,17 +68,17 @@ See <a href="MATERIALS.MD" target="_blank">MATERIALS.MD</a> for details on cours
 
 | WEEK  |  DATE  | ASSIGNMENT DUE  | PRACTICE | NOTE |
 | :---- | ------ | ----------- | -------- | ---- |
-|  1   |  01/22/2018  | Assignment  | Placeholder | Placeholder |
-|  2   |  01/29/2018  | Assignment  | Placeholder | Placeholder |
-|  3   |  02/05/2018  | Assignment  | Placeholder | Placeholder |
-|  4   |  02/12/2018  | Assignment  | Placeholder | Placeholder |
-|  5   |  02/19/2018  | Assignment  | Placeholder | Placeholder |
-|  6   |  02/26/2018  | Assignment  | Placeholder | Placeholder |
-|  7   |  03/05/2018  | Assignment  | Placeholder | Placeholder |
-|  8   |  03/12/2018  | Assignment  | Placeholder | Placeholder |
-|  9   |  03/19/2018  | Assignment  | Placeholder | Placeholder |
-|  10  |  03/26/2018  | Assignment  | Placeholder | Placeholder|
-| 11   |  04/02/2018  | Assignment  | Placeholder | Placeholder |
+|  1   |  01/22/2018  | No Assignment  | Placeholder | Placeholder |
+|  2   |  01/29/2018  | Quant Self Project Review/Critiques | Placeholder | Placeholder |
+|  3   |  02/05/2018  | Quant Self Visualization  | Placeholder | Placeholder |
+|  4   |  02/12/2018  | Emotion Tracking Visualization  | Placeholder | Placeholder |
+|  5   |  02/19/2018  | Bring Your Data  | Placeholder | Placeholder |
+|  6   |  02/26/2018  | Continue Unquantified Self Project  | Placeholder | Placeholder |
+|  7   |  03/05/2018  | Unquantified Self Project Due   | Placeholder | Placeholder |
+|  8   |  03/12/2018  | Final Project Proposals | Placeholder | Placeholder |
+|  9   |  03/19/2018  | Continue Final Project Development | Placeholder | Placeholder |
+|  10  |  03/26/2018  | Final Project Mid-term Review  | Placeholder | Placeholder|
+| 11   |  04/02/2018  | Continue Final Project Development  | Placeholder | Placeholder |
 | 12   |  04/09/2018  | Final Projects Due & Presentations | Placeholder | Placeholder |
 
 
