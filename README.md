@@ -72,7 +72,7 @@ See <a href="MATERIALS.MD" target="_blank">MATERIALS.MD</a> for details on cours
 |  2   |  01/29/2018  | Quant Self Project Review/Critiques | Placeholder | Placeholder |
 |  3   |  02/05/2018  | Quant Self Visualization  | Placeholder | Placeholder |
 |  4   |  02/12/2018  | Emotion Tracking Visualization  | Placeholder | Placeholder |
-|  5   |  02/19/2018  | Bring Your Data  | Placeholder | Placeholder |
+|  5   |  02/19/2018  | *Holiday, President's Day Observed* Continue data collection assignment  | Placeholder | Placeholder |
 |  6   |  02/26/2018  | Continue Unquantified Self Project  | Placeholder | Placeholder |
 |  7   |  03/05/2018  | Unquantified Self Project Due   | Placeholder | Placeholder |
 |  8   |  03/12/2018  | Final Project Proposals | Placeholder | Placeholder |
