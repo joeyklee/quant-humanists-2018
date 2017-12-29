@@ -49,6 +49,7 @@ Required resources used in this course:
 - Deborah Lupton (2016), The Quanitified Self: https://books.google.nl/books/about/The_Quantified_Self.html?id=nUwKDQAAQBAJ&redir_esc=y
 - Gina Neff and Dawn Nafus (2016), Self-Tracking: https://mitpress.mit.edu/books/self-tracking
 - Dawn Nafus (ed., 2016), Quanitified: Biosensing Technologies in Everyday Life: https://mitpress.mit.edu/books/quantified
+- Josh Berson (2015), Computable Bodies: Instrumented Life and the Human Somatic Niche: https://www.bloomsbury.com/uk/computable-bodies-9781472527622/
 
 ## Articles
 
