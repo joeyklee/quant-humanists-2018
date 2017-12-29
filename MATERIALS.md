@@ -24,12 +24,14 @@ Required resources used in this course:
 - 🙌 Foodzy -- https://foodzy.com/
 - MoodPanda -- http://moodpanda.com/
 - Headspace app - https://www.headspace.com/headspace-meditation-app 
+- Moodnotes app - https://itunes.apple.com/us/app/moodnotes-thought-journal/id1019230398?mt=8
 
 ### Social
 - 🙌 Twitter -- https://twitter.com/
 - 🙌 Klout -- https://klout.com/home
 - 🙌 Give me my data (Facebook) -- http://givememydata.com/
 - 🙌 Takeout (Google) -- https://takeout.google.com/
+- PPLKPR -- http://pplkpr.com/
 
 ### General
 - 🙌  Locker Project -- https://github.com/LockerProject ⇒ https://github.com/Singly/hallway 
@@ -40,12 +42,28 @@ Required resources used in this course:
 
 # Resources
 
-## Books & Reading
+## Books
 
-- Slow Data, Stephen Few: https://www.perceptualedge.com/blog/?p=1460
+- Stephen Few (2013), Slow Data: https://www.perceptualedge.com/blog/?p=1460
+- Cathy O'Neill (2016), Weapons of Math Destruction: https://weaponsofmathdestructionbook.com/
+- Deborah Lupton (2016), The Quanitified Self: https://books.google.nl/books/about/The_Quantified_Self.html?id=nUwKDQAAQBAJ&redir_esc=y
+- Gina Neff and Dawn Nafus (2016), Self-Tracking: https://mitpress.mit.edu/books/self-tracking
+- Dawn Nafus (ed., 2016), Quanitified: Biosensing Technologies in Everyday Life: https://mitpress.mit.edu/books/quantified
+
+## Articles
+
+- Emils Birkavs, Melle Koedijk, Xin Ming, Bart Wolbers (2016), The Quantified Self: Self-Knowledge Through Numbers: http://www.ideefiks.utwente.nl/wp_base/wp-content/uploads/2016/01/Final-Project-Quantified-Self-6_22_2016.pdf
+- Margaret Rhodes (2015), Nicolas Felton, This Guy Obsessively Recorded his Private Data for 10 years: https://www.wired.com/2015/10/nicholas-felton-obsessively-recorded-his-private-data-for-10-years/
+- Elizabeth Stinson (2015), Itamar Gilboa, An Artists Sculpted Everything He Ate in a Year: https://www.wired.com/2015/07/artist-sculpted-everything-ate-year/
+- Scott Amyx (2014), Wearing your Intelligence: https://www.wired.com/insights/2014/12/wearing-your-intelligence/
+- Beth Seidenberg (2014), You Should Share your Health Data: It's Value Outweighs the Privacy Risk: https://www.wired.com/2014/11/on-sharing-your-medical-info/
+- Mario Ballano Barcena, Candid Wueest, Hon Lau (2014), How Safe is your Quantified Self?: https://www.symantec.com/content/dam/symantec/docs/white-papers/how-safe-is-your-quantified-self-en.pdf
+- John Cohen, Geneticist Runs Personalized Medicine SuperStudy on Himself: https://www.wired.com/2012/03/diabetes-personal-genomics/
+- Latanya Sweeney, My Phone At Your Service: https://www.ftc.gov/news-events/blogs/techftc/2014/02/my-phone-your-service
 
 ## Talks
 
+- Kevin Kelly, The History and Future of QS: https://vimeo.com/49791232
 - Lillian Karabaic, 10 years of tracking: https://vimeo.com/227181779
 - J.Paul Neeley, Optimizing for Happiness & Considering Everything: https://www.youtube.com/watch?v=n2rpIjWGeUY
     + blog post: https://www.jpaulneeley.com/mmsz.html
