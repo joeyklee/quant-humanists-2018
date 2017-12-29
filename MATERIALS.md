@@ -61,6 +61,8 @@ Required resources used in this course:
 - Mario Ballano Barcena, Candid Wueest, Hon Lau (2014), How Safe is your Quantified Self?: https://www.symantec.com/content/dam/symantec/docs/white-papers/how-safe-is-your-quantified-self-en.pdf
 - John Cohen (2012), Geneticist Runs Personalized Medicine SuperStudy on Himself: https://www.wired.com/2012/03/diabetes-personal-genomics/
 - Latanya Sweeney (2014), My Phone At Your Service: https://www.ftc.gov/news-events/blogs/techftc/2014/02/my-phone-your-service
+- Stephen Wolfram (2012), The Personal Analytics of My Life: http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/
+- Anonymous (2017), Internet Chemotherapy: https://ghostbin.com/paste/q2vq2
 
 ## Talks
 
