@@ -58,8 +58,8 @@ Required resources used in this course:
 - Scott Amyx (2014), Wearing your Intelligence: https://www.wired.com/insights/2014/12/wearing-your-intelligence/
 - Beth Seidenberg (2014), You Should Share your Health Data: It's Value Outweighs the Privacy Risk: https://www.wired.com/2014/11/on-sharing-your-medical-info/
 - Mario Ballano Barcena, Candid Wueest, Hon Lau (2014), How Safe is your Quantified Self?: https://www.symantec.com/content/dam/symantec/docs/white-papers/how-safe-is-your-quantified-self-en.pdf
-- John Cohen, Geneticist Runs Personalized Medicine SuperStudy on Himself: https://www.wired.com/2012/03/diabetes-personal-genomics/
-- Latanya Sweeney, My Phone At Your Service: https://www.ftc.gov/news-events/blogs/techftc/2014/02/my-phone-your-service
+- John Cohen (2012), Geneticist Runs Personalized Medicine SuperStudy on Himself: https://www.wired.com/2012/03/diabetes-personal-genomics/
+- Latanya Sweeney (2014), My Phone At Your Service: https://www.ftc.gov/news-events/blogs/techftc/2014/02/my-phone-your-service
 
 ## Talks
 
