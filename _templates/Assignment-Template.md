@@ -9,7 +9,10 @@ DD MM YYYY
 
 ## Assignment `##`: Title of Assignment (e.g. Initial thoughts on self-tracking experiment)
  
+ 
 <!-- FILL IN THE INFORMATION BELOW -->
+
+### Section
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -40,6 +43,8 @@ e.g.: ![](https://www.youtube.com/watch?v=iqaVe1MCTlA)
 Stefanie Posavec and Georgia Lupi, Dear Data
 
 <!-- FILL IN THE INFORMATION BELOW -->
+
+#### Subsection
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
