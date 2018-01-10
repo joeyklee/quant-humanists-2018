@@ -1,10 +1,13 @@
 <!-- FILL IN THE INFORMATION BELOW -->
 
-<center><small>FIRST NAME, LAST NAME | QUANT HUMANISTS | SPRING 2018 | DD MM YYYY</small></center>
+FIRST NAME, LAST NAME <br>
+QUANT HUMANISTS <br>
+SPRING 2018 <br> 
+DD MM YYYY
 
 <!-- FILL IN THE INFORMATION BELOW -->
 
-### Assignment `##`: Title of Assignment (e.g. Initial thoughts on self-tracking experiment)
+## Assignment `##`: Title of Assignment (e.g. Initial thoughts on self-tracking experiment)
  
 <!-- FILL IN THE INFORMATION BELOW -->
 
@@ -21,14 +24,20 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <!-- INCLUDE REFERENCE TO OR SHORT DESCRIPTION OF IMAGE OR URL -->
 
-<center><small>Photo: http://www.reporter-app.com/</small></center>
+Photo: http://www.reporter-app.com/
 
-<!-- INCLUDE VIDEOS WHEN APPROPRIATE -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iqaVe1MCTlA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<!-- INCLUDE VIDEOS WHEN APPROPRIATE 
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+e.g.: ![](https://www.youtube.com/watch?v=iqaVe1MCTlA)
+-->
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/iqaVe1MCTlA/0.jpg)](https://www.youtube.com/watch?v=iqaVe1MCTlA)
 
 <!-- INCLUDE REFERENCE TO OR SHORT DESCRIPTION OF VIDEO OR URL -->
 
-<center><small>Stefanie Posavec and Georgia Lupi, Dear Data</small></center>
+Stefanie Posavec and Georgia Lupi, Dear Data
 
 <!-- FILL IN THE INFORMATION BELOW -->
 
