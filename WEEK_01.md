@@ -7,14 +7,28 @@ What is the Quantified Self? How are we represented by the data we produce? Are 
 
 ### MATERIALS
 - SLIDES: [Week 1 - Introduction](https://docs.google.com/presentation/d/1nwxeSBA2fgETtzLN0FbEKt-6ia4N8ZMD4GPF7fxb3qA/edit?usp=sharing)
+- TODO: Class time for...
+	- how to submit assignments
+	- saturate, group, & dot-voting for self-tracking topics for the rest of semester
+	- brainstorm questions for reporter-app // group discussion & feedback
 
 
 ### PRACTICE
-- [Markdown]()
-- [Github]()
-	- Creating Gists: https://help.github.com/articles/creating-gists/
-	- Github workflow // Github Desktop
-	- Publishing websites with Github pages
+- [Markdown](https://en.wikipedia.org/wiki/Markdown):
+	- [The Basics of Markdown Syntax, Daring Fireball](http://daringfireball.net/projects/markdown/basics)
+	- [Interactive Markdown Tutorial](https://www.markdowntutorial.com/)
+	- [Learn Markdown in Y Minutes](https://learnxinyminutes.com/docs/markdown/)
+- [Github](https://github.com/): [Signup here](https://help.github.com/articles/signing-up-for-a-new-github-account/)
+	- [Creating Gists](https://help.github.com/articles/creating-gists/)	
+	- [Publishing websites with Github pages](https://pages.github.com/)
+	- [Getting Started with Github Desktop](https://help.github.com/desktop-classic/guides/getting-started/)
+	- [CLI Handbook](http://cli.learncodethehardway.org/book/)
+	- [Terminal for Windows](https://conemu.github.io/)
+	- [Terminal for Mac](http://www.macworld.co.uk/feature/mac-software/get-more-out-of-os-x-terminal-3608274/)
+	- [Command Line Bootcamp](http://rik.smith-unna.com/command_line_bootcamp/)
+	- [On Demand Github Tutorials](https://guides.github.com/activities/hello-world/)
+	- [HTML/CSS Practice site](http://webdive.ktam.org/web/basics)
+
 
 ### READINGS
 - Platel, Joost., Questions for a Self-Tracking Service, [http://quantifiedself.com/2011/06/questions-for-a-self-tracking-service/](Questions for a Self-Tracking Service)
@@ -29,6 +43,7 @@ Tracking quality of life with Reporter.](https://medium.com/@buster/how-i-track-
 - Koester, Mark., Blog, [Ultimate guide to tracking](http://www.markwk.com/tracking-tools.html)
 - Example Blog: Woo, Twinsen., [Introduction to Quantified Self](https://medium.com/@twinsenwu/introduction-to-quantified-self-8d263a36fd22)
 - Best Journaling Apps to Record your 2017, [Gizmodo, Best Journaling Apps to Record your 2017](https://fieldguide.gizmodo.com/the-best-journaling-apps-to-record-your-2017-memories-1790359047)
+- Experimentable QS Resource Guide, blog, [Experimentable QS Resource Guide](http://experimentable.com/qs-guide/)
 - [Instagram](https://www.instagram.com/?hl=en)
 			- please tag your photos with if/whenever possible `#QuantHumanists18`)
 
@@ -36,31 +51,23 @@ Tracking quality of life with Reporter.](https://medium.com/@buster/how-i-track-
 - **Task 1**: Setup a Github account
 - **Task 2**: Setup self-tracking tools:
 	- Required:
-		- [TODO: A photobased app here]()
+		- [TODO: A photobased app here...Instagram?]()
 		- [Moves App](https://moves-app.com/): Moves is an automatic diary of your life. Your daily storyline and maps show where, when, and how much you move.
 		- [Reporter App](http://www.reporter-app.com/): Reporter is a new application for understanding the things you care about. With a few randomly timed surveys each day, Reporter can illuminate aspects of your life that might be otherwise unmeasurable.
 			- **Required questions/collected data**:
-				- Waking Up:
+				- Wake (when you wake up in the morning):
 					- ...
 					- ...
 					- ...
-				- Morning:
+				- Day (randomly throughout the day):
 					- ...
 					- ...
 					- ...
-				- Daytime:
+				- Sleep (before you go to bed):
 					- ...
 					- ...
 					- ...
-				- Evening:
-					- ...
-					- ...
-					- ...
-				- Just Before Bed:
-					- ...
-					- ...
-					- ...
-			- **Develop 3 or more additional questions for a certain aspect of your life** that you would like to track, analyze, and perhaps improve or gain insights about. Adjust the questions over the course of the week as you adjust and adapt to the technology. Keep in mind when the questions might be most relevant.
+			- **Develop 3 or more additional questions for a certain aspect of your life** that you would like to track, analyze, and perhaps improve or gain insights about. Adjust the questions over the course of the week as you adjust and adapt to the technology. Keep in mind when (wake/day/sleep) the questions might be most relevant.
 		- Optional:
 			- ...
 			- ...
