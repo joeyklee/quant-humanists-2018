@@ -1,18 +1,15 @@
-<!-- FILL IN THE INFORMATION BELOW -->
+<!-- FILL IN THE INFORMATION BELOW - shoutout to @auremoser for the template: https://gist.github.com/auremoser/9dcfac8163e7737e7b5f -->
 
 FIRST NAME, LAST NAME <br>
 QUANT HUMANISTS <br>
 SPRING 2018 <br> 
 DD MM YYYY
 
-<!-- FILL IN THE INFORMATION BELOW -->
-
-## Assignment `##`: Title of Assignment (e.g. Initial thoughts on self-tracking experiment)
+## Assignment `##`: Title of Assignment (e.g. Initial thoughts on self-tracking experiment), [link to assignment in syllabus]()
  
- 
-<!-- FILL IN THE INFORMATION BELOW -->
+here you can put in an introduction to what your assignment topic is
 
-### Section
+### Section (e.g. Introduction)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -23,11 +20,9 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <!-- INCLUDE IMAGES WHEN APPROPRIATE -->
 
-![Image](http://www.reporter-app.com/assets/3xPhones_Aqua@2x-78543eb7163e7fb70b1b4f4c0c878fd2.png)
+![ReporterApp](http://www.reporter-app.com/assets/3xPhones_Aqua@2x-78543eb7163e7fb70b1b4f4c0c878fd2.png)
 
-<!-- INCLUDE REFERENCE TO OR SHORT DESCRIPTION OF IMAGE OR URL -->
-
-Photo: http://www.reporter-app.com/
+**Source for graphic**: Reporter App., [_Reporter-app.com_](http://www.reporter-app.com/).
 
 <!-- INCLUDE VIDEOS WHEN APPROPRIATE 
 
@@ -38,13 +33,14 @@ e.g.: ![](https://www.youtube.com/watch?v=iqaVe1MCTlA)
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/iqaVe1MCTlA/0.jpg)](https://www.youtube.com/watch?v=iqaVe1MCTlA)
 
-<!-- INCLUDE REFERENCE TO OR SHORT DESCRIPTION OF VIDEO OR URL -->
+**Source for graphic**: Stefanie Posavec and Georgia Lupi, [_Dear Data_](https://www.youtube.com/watch?v=iqaVe1MCTlA).
 
-Stefanie Posavec and Georgia Lupi, Dear Data
+### Section (e.g. Analysis)
 
-<!-- FILL IN THE INFORMATION BELOW -->
+here you can explain in one ¶ with complete sentences what your evaluation/analysis/thoughts are on some topic
 
-#### Subsection
+
+#### Subsection (e.g. More Analysis)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -52,3 +48,13 @@ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+### Resources
+
+here you can list resources using any citation schema that suits, here are some examples:
+
+* [MLA](https://owl.english.purdue.edu/owl/resource/747/01/)
+* [APA](https://owl.english.purdue.edu/owl/resource/560/01/)
+
+this template is written in markdown, you can read more about the [syntax here](http://daringfireball.net/projects/markdown/basics).
