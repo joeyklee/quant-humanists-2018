@@ -9,9 +9,14 @@ What is the Quantified Self? How are we represented by the data we produce? Are 
 - SLIDES: [Week 1 - Introduction](https://docs.google.com/presentation/d/1nwxeSBA2fgETtzLN0FbEKt-6ia4N8ZMD4GPF7fxb3qA/edit?usp=sharing)
 - TODO: Class time for...
 	- how to submit assignments
+	- organizing into groups
+	- setting up tracking apps
+	- project critique 
+
+<!--
 	- saturate, group, & dot-voting for self-tracking topics for the rest of semester
 	- brainstorm questions for reporter-app // group discussion & feedback
-
+-->
 
 ### PRACTICE
 - [Markdown](https://en.wikipedia.org/wiki/Markdown):
@@ -44,6 +49,7 @@ Tracking quality of life with Reporter.](https://medium.com/@buster/how-i-track-
 - Example Blog: Woo, Twinsen., [Introduction to Quantified Self](https://medium.com/@twinsenwu/introduction-to-quantified-self-8d263a36fd22)
 - Best Journaling Apps to Record your 2017, [Gizmodo, Best Journaling Apps to Record your 2017](https://fieldguide.gizmodo.com/the-best-journaling-apps-to-record-your-2017-memories-1790359047)
 - Experimentable QS Resource Guide, blog, [Experimentable QS Resource Guide](http://experimentable.com/qs-guide/)
+- Nomie App, blog and video, [Mobile Track Anything App](https://www.huffingtonpost.com/matt-hunckler/mobile-trackanything-app-_b_11210632.html)
 - [Instagram](https://www.instagram.com/?hl=en)
 			- please tag your photos with if/whenever possible `#QuantHumanists18`)
 
