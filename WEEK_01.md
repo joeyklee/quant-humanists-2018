@@ -5,7 +5,7 @@
 
 What is the Quantified Self? How are we represented by the data we produce? Are those representations meaningful? For whom? We will explore these questions and many more throughout this course, "Quant Humanists: the 'I' in API". Today we will introduce some basics of this course and take care of some technical logistics. 
 
-### MATERIALS
+### PROGRAM
 - SLIDES: [Week 1 - Introduction](https://docs.google.com/presentation/d/1nwxeSBA2fgETtzLN0FbEKt-6ia4N8ZMD4GPF7fxb3qA/edit?usp=sharing)
 - TODO: Class time for...
 	- how to submit assignments
@@ -50,12 +50,13 @@ Tracking quality of life with Reporter.](https://medium.com/@buster/how-i-track-
 - Best Journaling Apps to Record your 2017, [Gizmodo, Best Journaling Apps to Record your 2017](https://fieldguide.gizmodo.com/the-best-journaling-apps-to-record-your-2017-memories-1790359047)
 - Experimentable QS Resource Guide, blog, [Experimentable QS Resource Guide](http://experimentable.com/qs-guide/)
 - Nomie App, blog and video, [Mobile Track Anything App](https://www.huffingtonpost.com/matt-hunckler/mobile-trackanything-app-_b_11210632.html)
+- Epic list of Quantified Self apps and projects, [@woop/Awesome Quantified Self](https://github.com/woop/awesome-quantified-self)
 - [Instagram](https://www.instagram.com/?hl=en)
 			- please tag your photos with if/whenever possible `#QuantHumanists18`)
 
 ### ASSIGNMENT (DUE: WEEK `02`, 29 Jan 2018)
 - **Task 1**: Setup a Github account
-- **Task 2**: Setup self-tracking tools:
+- **Task 2**: Setup self-tracking tools. 
 	- Required:
 		- [TODO: A photobased app here...Instagram?]()
 		- [Moves App](https://moves-app.com/): Moves is an automatic diary of your life. Your daily storyline and maps show where, when, and how much you move.
