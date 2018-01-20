@@ -42,14 +42,14 @@ Required resources used in this course:
 ### General
 - 🙌 Locker Project -- https://github.com/LockerProject ⇒ https://github.com/Singly/hallway 
 - 🙌 Nomie -- https://nomie.io/
+- 🙌 Notebook App -- http://www.notebooksapp.com/
+- 🙌 ZenoBase -- https://zenobase.com/#/
 - Moment -- https://inthemoment.io/
 - Instant -- http://instantapp.today/
 - Reporter App -- http://www.reporter-app.com/
 - Loca -- https://itunes.apple.com/app/loca-automatic-place-journal/id1057167620?mt=8
 - Mobile data usage -- https://www.lifewire.com/apps-to-monitor-data-usage-for-iphone-3426710
 - Rescue Time -- https://www.rescuetime.com/
-- 🙌 Notebook App -- http://www.notebooksapp.com/
-- 🙌 ZenoBase -- https://zenobase.com/#/
 - Make Sense of Data -- https://makesenseofdata.com/
 - Body Track Project (CMU) -- http://www.cmucreatelab.org/projects/BodyTrack
 - Coach.me -- https://www.coach.me/
