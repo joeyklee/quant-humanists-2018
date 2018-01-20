@@ -55,6 +55,14 @@ NOTE: the `ASSIGNMENT DUE` column indicates what is due on that week after havin
 * [GitHub & Github Issues](https://github.com/joeyklee/quant-humanists-2018) — Main source of information, assignments, important dates, and more
 * [Gitter](https://gitter.im/joeyklee/quant-humanists-2018) — General chatter and Q&A 
 
+## BIBLIOGRAPHY
+
+See <a href="BIBLIOGRAPHY.md" target="_blank">BIBLIOGRAPHY</a> for details on readings, watchables, and inspiration.
+
+## MATERIALS
+
+See <a href="MATERIALS.md" target="_blank">MATERIALS</a> for details on course materials such as quantified self apps and additional resources.
+
 
 ## DESCRIPTION
 
@@ -93,12 +101,11 @@ Here is a basic breakdown of graded tasks along that trajectory:
 * 40% Final Project, completed on conclusion of the course
 * TOTAL: 100%
 
-## MATERIALS
-
-See <a href="MATERIALS.MD" target="_blank">MATERIALS.MD</a> for details on course materials such as quantified self apps, APIs, links to data, and more!
 
 <br>
+
 ***
+
 <br>
 
 ## NYU STATEMENTS AND PRINCIPLES
