@@ -28,7 +28,8 @@ Required resources used in this course:
 - MoodPanda -- http://moodpanda.com/
 - Headspace app - https://www.headspace.com/headspace-meditation-app 
 - Moodnotes app - https://itunes.apple.com/us/app/moodnotes-thought-journal/id1019230398?mt=8
-
+- Add app - https://addapp.io/
+- MyMee - http://www.mymee.com/
 
 ### Social
 - 🙌 Twitter -- https://twitter.com/
@@ -39,10 +40,18 @@ Required resources used in this course:
 
 ### General
 - 🙌 Locker Project -- https://github.com/LockerProject ⇒ https://github.com/Singly/hallway 
-- Reporter App ($4.99) -- http://www.reporter-app.com/
+- 🙌 Nomie -- https://nomie.io/
+- Moment -- https://inthemoment.io/
+- Instant -- http://instantapp.today/
+- Reporter App -- http://www.reporter-app.com/
+- Loca -- https://itunes.apple.com/app/loca-automatic-place-journal/id1057167620?mt=8
 - Mobile data usage -- https://www.lifewire.com/apps-to-monitor-data-usage-for-iphone-3426710
-- Rescue Time: https://www.rescuetime.com/
-- 🙌 Notebook App: http://www.notebooksapp.com/
+- Rescue Time -- https://www.rescuetime.com/
+- 🙌 Notebook App -- http://www.notebooksapp.com/
+- 🙌 ZenoBase -- https://zenobase.com/#/
+- Make Sense of Data -- https://makesenseofdata.com/
+- Body Track Project (CMU) -- http://www.cmucreatelab.org/projects/BodyTrack
+- Coach.me -- https://www.coach.me/
 
 # Resources
 
@@ -76,6 +85,7 @@ Required resources used in this course:
 
 ## Articles
 
+- 🆓 Measured Me, How to Design Self Experiments: http://measuredme.com/2012/09/quantified-self-how-to-designing-self-experiment-html/
 - 🆓 Margaret Rhodes (2015), Nicolas Felton, This Guy Obsessively Recorded his Private Data for 10 years: https://www.wired.com/2015/10/nicholas-felton-obsessively-recorded-his-private-data-for-10-years/
 - 🆓 Elizabeth Stinson (2015), Itamar Gilboa, An Artists Sculpted Everything He Ate in a Year: https://www.wired.com/2015/07/artist-sculpted-everything-ate-year/
 - 🆓 Scott Amyx (2014), Wearing your Intelligence: https://www.wired.com/insights/2014/12/wearing-your-intelligence/
@@ -90,10 +100,16 @@ Required resources used in this course:
 - 🆓 Rose Eveleth (2014), How self-tracking apps exclude women: https://www.theatlantic.com/technology/archive/2014/12/how-self-tracking-apps-exclude-women/383673/
 - 🆓 Eric Meyer (2014), Inadvertent algorithmic cruelty: https://meyerweb.com/eric/thoughts/2014/12/24/inadvertent-algorithmic-cruelty/
 - 🆓 Frank Pasquale (2014), The dark market for personal data: https://www.nytimes.com/2014/10/17/opinion/the-dark-market-for-personal-data.html
+- 🆓 Ernesto Ramirez (2012), Talking Data with Your Doc: The Patient: http://quantifiedself.com/2012/03/talking-data-with-your-doc/
+- 🆓 Whitney Erin Boesel (2012), The Woman vs. the Stick: https://thesocietypages.org/cyborgology/2012/09/20/the-woman-vs-the-stick-mindfulness-at-quantified-self-2012/
+- 🆓 Rob Walker (2015), How to Pay Attention: 20 Ways to Win the War against Seeing: https://medium.com/re-form/how-to-pay-attention-4751adb53cb6
+- 🆓 Kim McAuliffe (2015), "A little bit" pregnant: https://medium.com/@EnameledKoi/a-little-bit-pregnant-3122683ac793
 
-## Talks
+## Talks 🆓 
 
 - Kevin Kelly, The History and Future of QS: https://vimeo.com/49791232
+- B.J. Fogg, Forget Big Change, Start with a Tiny Habit: https://www.youtube.com/watch?v=AdKUJxjn-R8
+- Anne Wright, Health Empowerment through Self-Tracking: https://www.youtube.com/watch?v=J_bTG70xe-Y
 - Lillian Karabaic, 10 years of tracking: https://vimeo.com/227181779
 - J.Paul Neeley, Optimizing for Happiness & Considering Everything: https://www.youtube.com/watch?v=n2rpIjWGeUY
     + blog post: https://www.jpaulneeley.com/mmsz.html
