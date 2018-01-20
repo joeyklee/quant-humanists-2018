@@ -30,7 +30,7 @@ Room: TBD
 <a href="" target="_blank">A1: </a> 
 -->
 
-NOTE: the `ASSIGNMENT DUE` column indicates what is due on that week. In other words, please submit the assignment **before class** that week.
+NOTE: the `ASSIGNMENT DUE` column indicates what is due on that week after having been assigned previously. In other words, please submit the assignment **before class** that week.
 
 | GO TO  |  DATE  | THEME | ASSIGNMENT DUE | NOTE |
 | :---- | ------ | ------ | ----------- | ---- |
