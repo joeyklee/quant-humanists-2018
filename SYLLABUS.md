@@ -6,14 +6,25 @@
 ## SYLLABUS
 
 ### COURSE LOGISTICS 
-**Instructors**: Aurelia Moser (@auremoser // auremoser@gmail.com) & Joey Lee (@leejoeyk // josephkanglee@gmail.com ) <br>
-**Time**: Mondays 6:30pm to 9:25pm in **ROOM 15** // Jan. 22 - Apr. 9<br>
-**Total Meetings**: 12 // 4 Point Course<br>
-**Office Hours**:Fridays, 4-5pm<br>
-**Category**: 4 Point, All, Elective, Evening, Monday, New, Yes<br>
-**Tags**: data, design, programming, quantifiedself | <br>
+
+#### Instructors: 
+Aurelia Moser (@auremoser // auremoser@gmail.com)<br>
+Joey Lee (@leejoeyk // josephkanglee@gmail.com ) 
+
+#### Time: 
+Mondays 6:30pm to 9:25pm <br>
+ROOM 15<br>
+Jan. 22 - Apr. 23<br>
+12 meetings // 4 Point Course<br>
+
+#### Office Hours
+Fridays, 4-5pm<br>
+Room: TBD
 
 [**link to the course listing on NYU's Exchange**](https://itp.nyu.edu/exchange/quant-humanists-the-i-in-the-api/)
+
+**Category**: 4 Point, All, Elective, Evening, Monday, New, Yes<br>
+**Tags**: data, design, programming, quantifiedself | <br>
 
 ## COMMUNICATION
 * [GitHub](https://github.com/joeyklee/quant-humanists-2018) — Main source of information, assignments, important dates, and more
