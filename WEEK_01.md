@@ -13,11 +13,13 @@ What is the Quantified Self? How are we represented by the data we produce? Are 
 - Course logistics
 - Overview of context, terminology, methods, & resources
 - [Presentation](https://docs.google.com/presentation/d/1nwxeSBA2fgETtzLN0FbEKt-6ia4N8ZMD4GPF7fxb3qA/edit?usp=sharing)
-- Project Highlight - Critique & Feedback
+
+**Project Highlight - Critique & Feedback**
 
 ![2005](https://i.imgur.com/7DNBVt1.jpg)
 
 Felton Reports [2005](http://feltron.com/FAR05.html); [2012](http://feltron.com/FAR12.html) 
+
 _Margaret Rhodes (2015), [This Guy Obsessively Recorded his Private Data for 10 years](https://www.wired.com/2015/10/nicholas-felton-obsessively-recorded-his-private-data-for-10-years/)_
 
 **STUDIO:**
@@ -45,7 +47,7 @@ _Margaret Rhodes (2015), [This Guy Obsessively Recorded his Private Data for 10 
 - Nomie App, blog and video, [Mobile Track Anything App](https://www.huffingtonpost.com/matt-hunckler/mobile-trackanything-app-_b_11210632.html)
 - Epic list of Quantified Self apps and projects, [@woop/Awesome Quantified Self](https://github.com/woop/awesome-quantified-self)
 - Woo, Twinsen., [Introduction to Quantified Self](https://medium.com/@twinsenwu/introduction-to-quantified-self-8d263a36fd22)
-- [Reporter App: unofficial Questions](http://reporter-app-survey-questions.tumblr.com/)
+- [Reporter App: unofficial questions](http://reporter-app-survey-questions.tumblr.com/)
 - Measured Me, [How to Design Self Experiments](http://measuredme.com/2012/09/quantified-self-how-to-designing-self-experiment-html/)
 - Amyx, Scott., [Wearing your Intelligence](https://www.wired.com/insights/2014/12/wearing-your-intelligence/)
 
@@ -62,7 +64,7 @@ _Margaret Rhodes (2015), [This Guy Obsessively Recorded his Private Data for 10 
 - Koester, Mark., Blog, [What I'm Tracking in 2017](http://www.markwk.com/2017/01/what-I-am-tracking-in-2017.html)
 - Koester, Mark., Blog, [Ultimate guide to tracking](http://www.markwk.com/tracking-tools.html)
 - Experimentable, Blog, [Experimentable QS Resource Guide](http://experimentable.com/qs-guide/)
-- Platel, Joost., [Questions for a Self-Tracking Service](http://quantifiedself.com/2011/06/questions-for-a-self-tracking-service/
+- Platel, Joost., [Questions for a Self-Tracking Service](http://quantifiedself.com/2011/06/questions-for-a-self-tracking-service/)
 - Benson, Buster., [How I track my life with Reporter](https://medium.com/@buster/how-i-track-my-life-7da6f22b8e2c)
 
 ## ASSIGNMENT (DUE: WEEK `02`, 29 Jan 2018)
