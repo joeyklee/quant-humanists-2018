@@ -92,6 +92,6 @@ Below you will find a checklist of tasks for this week.
 - **Submission**: Submit your Github Gist/blog post link as a `github issue` in the quant-humanists-2018 repository issues. See NOTE below.
 
 
-**NOTE**: Please structure your blog post submissions according to the assignment template here: [Quant Humanist - assignment template](https://github.com/joeyklee/quant-humanists-2018/blob/master/_templates/Assignment-Template.md) 
+**NOTE**: Please structure your blog post submissions according to the assignment template here: [Quant Humanist - assignment template](https://github.com/joeyklee/quant-humanists-2018/blob/master/_templates/assignment-submission-template.md) 
 
 
