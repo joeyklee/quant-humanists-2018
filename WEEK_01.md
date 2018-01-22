@@ -67,8 +67,31 @@ _Margaret Rhodes (2015), [This Guy Obsessively Recorded his Private Data for 10 
 - Platel, Joost., [Questions for a Self-Tracking Service](http://quantifiedself.com/2011/06/questions-for-a-self-tracking-service/)
 - Benson, Buster., [How I track my life with Reporter](https://medium.com/@buster/how-i-track-my-life-7da6f22b8e2c)
 
-## ASSIGNMENT (DUE: WEEK `02`, 29 Jan 2018)
+## ASSIGNMENT 1 (DUE: WEEK `02`, 29 Jan 2018)
 
-[See assignment sheet, temp](https://docs.google.com/spreadsheets/d/14beqap6Zr39waZxXydUy8rHoweB5XLtmjeEpNc5f_BU/edit?usp=sharing )
+The assignment this week is to get setup with your self-tracking tools and to dive in to the world of the quantified self. You will hit the ground running by spending this week fine tuning your self-tracking data collection. You will discover by engaging in the practice of self-tracking how you might need to adjust or adapt your data collection methods to best suit your own needs/personality/questions. 
+
+Along with your data collection you will also begin the habit of reflecting on the process of self-tracking - a task you will maintain, along with your data collection, throughout the course. 
+
+Below you will find a checklist of tasks for this week.
+
+### Setup Github
+- **About**: If not already, please create an account with [Github](https://github.com/): [Signup here](https://help.github.com/articles/signing-up-for-a-new-github-account/)
+- **Submission**: ✨
+
+### Setup Tracking Tools / Data collection
+- **About**: Setup the self-tracking tools (e.g. reporter-app, nomie 2, moves, etc) and begin the habit of self-tracking. Spend this week to adjust and adapt to your own needs/personality/questions. Take this week to sort out aspects of your self-tracking such as sampling frequency and granularity (e.g. level of detail) with the intention of maintaining these habits for the rest of the semester.
+- **Submission**: Continue tracking throughout the semester. 
+
+### Blog Post: Quant Self Project Review
+- **About**: Find 3-5 examples of projects that relate to self-tracking and the quantified self and write a 1. short summary description of the project, 2. the project's broader significance, and 3. why it is interesting to you. When possible, speak to the project implementation as a way to catalog useful methodologies. 
+- **Submission**: Submit your Github Gist/blog post link as a `github issue` in the quant-humanists-2018 repository issues. See NOTE below.
+
+### Blog Post: Reflection
+- **About**:  Write a short reflection about what your current relationship with self-tracking (e.g. hopes, dreams, perceptions), questions you have about self-tracking and how it could help or harm you, and how you hope the course will help facilitate your interests. Write about which questions you've identified to track, how you plan to track those variables of interest, and what challenges you expect to encounter as well as what you hope to learn. 
+- **Submission**: Submit your Github Gist/blog post link as a `github issue` in the quant-humanists-2018 repository issues. See NOTE below.
+
+
+**NOTE**: Please structure your blog post submissions according to the assignment template here: [Quant Humanist - assignment template](https://github.com/joeyklee/quant-humanists-2018/blob/master/_templates/Assignment-Template.md) 
 
 
