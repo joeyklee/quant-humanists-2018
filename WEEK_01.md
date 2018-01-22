@@ -85,12 +85,11 @@ Below you will find a checklist of tasks for this week.
 
 ### Blog Post: Quant Self Project Review
 - **About**: Find 3-5 examples of projects that relate to self-tracking and the quantified self and write a 1. short summary description of the project, 2. the project's broader significance, and 3. why it is interesting to you. When possible, speak to the project implementation as a way to catalog useful methodologies. 
-- **Submission**: Submit your Github Gist/blog post link as a `github issue` in the quant-humanists-2018 repository issues. See NOTE below.
+- **Submission**: Submit your Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2018 repository](https://github.com/joeyklee/quant-humanists-2018/issues). See NOTE below.
 
 ### Blog Post: Reflection
 - **About**:  Write a short reflection about what your current relationship with self-tracking (e.g. hopes, dreams, perceptions), questions you have about self-tracking and how it could help or harm you, and how you hope the course will help facilitate your interests. Write about which questions you've identified to track, how you plan to track those variables of interest, and what challenges you expect to encounter as well as what you hope to learn. 
-- **Submission**: Submit your Github Gist/blog post link as a `github issue` in the quant-humanists-2018 repository issues. See NOTE below.
-
+- **Submission**: Submit your Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2018 repository](https://github.com/joeyklee/quant-humanists-2018/issues). See NOTE below.
 
 **NOTE**: Please structure your blog post submissions according to the assignment template here: [Quant Humanist - assignment template](https://github.com/joeyklee/quant-humanists-2018/blob/master/_templates/assignment-submission-template.md) 
 
