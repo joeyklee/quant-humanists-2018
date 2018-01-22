@@ -39,15 +39,15 @@ NOTE: the `ASSIGNMENT DUE` column indicates what is due on that week after havin
 |  <a href="WEEK_03.md" target="_blank">WEEK 3</a>   |  02/05/2018  | Reflect: Visualization, Representation, and Analysis | 1. Methodology Documentation <br> 2. DIY Tracking Tutorial <br> 3. Reflection Post  | N/A |
 |  <a href="WEEK_04.md" target="_blank">WEEK 4</a>   |  02/12/2018  | Reflect: Quant Self as a Service | 1. "Dear Data" <br> 2. Reflection Post | N/A |
 |  X   |  02/19/2018  | *HOLIDAY, NO CLASS*  | *Continue Quant Self Service Concept*  | N/A |
-|  <a href="" target="_blank">WEEK 5</a>   |  02/26/2018  | Act: Interventions | 1. Quant Self Service Concept <br> 2. Reflection Post  | N/A |
-|  <a href="" target="_blank">WEEK 6</a>   |  03/05/2018  | Act: Unquantified Self | 1. Behavior Change Intervention <br> 2. Reflection Post  | N/A |
+|  <a href="WEEK_05.md" target="_blank">WEEK 5</a>   |  02/26/2018  | Act: Interventions | 1. Quant Self Service Concept <br> 2. Reflection Post  | N/A |
+|  <a href="WEEK_06.md" target="_blank">WEEK 6</a>   |  03/05/2018  | Act: Unquantified Self | 1. Behavior Change Intervention <br> 2. Reflection Post  | N/A |
 |  X   |  03/12/2018  | *HOLIDAY, NO CLASS*  | Special Topics | N/A |
-|  <a href="" target="_blank">WEEK 7</a>   |  03/19/2018  | Special Topics | 1. Hack your tracker <br> 2. Reflection Post | N/A |
-|  <a href="" target="_blank">WEEK 8</a>   |  03/26/2018  | Special Topics | 1. Final Project Proposal & Pin-up <br> 2. Quant mood timeline representation |  N/A |
-|  <a href="" target="_blank">WEEK 9</a>  |  04/02/2018  | Special Topics | *Final project development*  | N/A |
-|  <a href="" target="_blank">WEEK 10</a>  |  04/09/2018  | Special Topics| 1. Final Project mid-review pin-up  | N/A|
-| <a href="" target="_blank">WEEK 11</a>   |  04/16/2018  | *Final project development* | *Final project development*  | N/A |
-| <a href="" target="_blank">WEEK 12</a>   |  04/23/2018  | Last Class | Final Projects Due & Presentations | 🎉 |
+|  <a href="WEEK_07.md" target="_blank">WEEK 7</a>   |  03/19/2018  | Special Topics | 1. Hack your tracker <br> 2. Reflection Post | N/A |
+|  <a href="WEEK_08.md" target="_blank">WEEK 8</a>   |  03/26/2018  | Special Topics | 1. Final Project Proposal & Pin-up <br> 2. Quant mood timeline representation |  N/A |
+|  <a href="WEEK_09.md" target="_blank">WEEK 9</a>  |  04/02/2018  | Special Topics | *Final project development*  | N/A |
+|  <a href="WEEK_10.md" target="_blank">WEEK 10</a>  |  04/09/2018  | Special Topics| 1. Final Project mid-review pin-up  | N/A|
+| <a href="WEEK_1.md" target="_blank">WEEK 11</a>   |  04/16/2018  | *Final project development* | *Final project development*  | N/A |
+| <a href="WEEK_12.md" target="_blank">WEEK 12</a>   |  04/23/2018  | Last Class | Final Projects Due & Presentations | 🎉 |
 
 
 
