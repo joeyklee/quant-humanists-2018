@@ -47,3 +47,19 @@ Becky Cooper, [Mapping Manhattan](http://mapyourmemories.tumblr.com/tagged/Manha
 - Huang, Shan., [Iconic History](https://chrome.google.com/webstore/detail/iconic-history/hfacpfhgpmaifaanbmgbbjkfgelookom?hl=en) - visualize your [browser history in favicons](https://www.fastcodesign.com/3027816/this-plugin-visualizes-your-entire-browser-history#4)
 
 ## ASSIGNMENT
+
+This week you will, with a partner, embrace your inner Lupi-Posavek and "Dear Data" a feature of your life that might be illuminated through visualization.
+
+### Dear Data Visualization 
+
+- **About**: Using "dear data" as a guide, create a set of rules to visualize your data - you may use digital tools, but analog style is encouraged. Think about the ways in which Georgia and Stefanie parameterized the aspects of their records to produce their visualizations. Find ways to express your own personal style and aesthetic in the implementation of your rules. 
+- **Submission**: Document your process and submit **images of your output** along with the accompanying **description of your visualization** and post your Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2018 repository](https://github.com/joeyklee/quant-humanists-2018/issues). See NOTE below.
+
+
+### Blog Post: Reflection
+- **About**: short paragraph or phrase on what you learned this week.
+- **Submission**: Submit your Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2018 repository](https://github.com/joeyklee/quant-humanists-2018/issues). See NOTE below.
+
+
+**NOTE**: Please structure your blog post submissions according to the assignment template here: [Quant Humanist - assignment template](https://github.com/joeyklee/quant-humanists-2018/blob/master/_templates/assignment-submission-template.md)  
+
