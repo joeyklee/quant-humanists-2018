@@ -60,13 +60,12 @@ This brief bibliography includes readings that will be assigned in class and oth
 
 ## Books
 
-- Cathy O'Neill (2016), Weapons of Math Destruction: https://weaponsofmathdestructionbook.com/
+- Cathy O'Neil (2016), Weapons of Math Destruction: https://weaponsofmathdestructionbook.com/
 - Deborah Lupton (2016), The Quanitified Self: https://books.google.nl/books/about/The_Quantified_Self.html?id=nUwKDQAAQBAJ&redir_esc=y
 - Gina Neff and Dawn Nafus (2016), Self-Tracking: https://mitpress.mit.edu/books/self-tracking
 - Dawn Nafus (ed., 2016), Quanitified: Biosensing Technologies in Everyday Life: https://mitpress.mit.edu/books/quantified
 - Josh Berson (2015), Computable Bodies: Instrumented Life and the Human Somatic Niche: https://www.bloomsbury.com/uk/computable-bodies-9781472527622/
 - (🆓 e-book) L. Ablon, M. Libicki, and A. Golay (2015), Markets for Cyber crime Tools and Stolen Data: https://www.rand.org/pubs/research_reports/RR610.html
-- Stephen Few (2013), Slow Data: https://www.perceptualedge.com/blog/?p=1460
 - Btihaj Ajana (2013), Governing Through Biometrics: the Biopolitics of Identity: http://www.palgrave.com/us/book/9780230321618
 - D. Coole, and S. Frost (2010), New Materialisms: Ontology, Agency, and Politics: https://www.dukeupress.edu/new-materialisms
 - 🆓 Sherry Turkle (2007), Introduction: The things that matter (3-10): https://llk.media.mit.edu/courses/readings/Turkle-EO-intro.pdf
@@ -75,15 +74,15 @@ This brief bibliography includes readings that will be assigned in class and oth
 
 - 🆓 E. Birkavs, M. Koedijk, X. Ming, and B. Wolbers (2016), The Quantified Self: Self-Knowledge Through Numbers: http://www.ideefiks.utwente.nl/wp_base/wp-content/uploads/2016/01/Final-Project-Quantified-Self-6_22_2016.pdf
 - Jayson Harsin (2015), Regimes of posttuth, postpolitics and attention economies: https://www.researchgate.net/publication/272752872_Regimes_of_Posttruth_Postpolitics_and_Attention_Economies
-- R.A. Knot, L. Hjorth, F. Mueller (2014), Understanding physical activity through 3D prined material artifacts: https://dl.acm.org/citation.cfm?id=2557144
+- R.A. Knot, L. Hjorth, F. Mueller (2014), Understanding physical activity through 3D printed material artifacts: https://dl.acm.org/citation.cfm?id=2557144
 - 🆓 Nigel Thrift (2014), The 'sentient' city and what it may portend: http://journals.sagepub.com/doi/full/10.1177/2053951714532241
 - 🆓 José van Dijck (2014), Datafication, datism and dataveillance: big data between scientific paradigm and ideology: https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/datafication
 - 🆓 Kaiton Williams (2013), The weight of things lost: Self-knowledge and personal informatics: http://www.personalinformatics.org/docs/chi2013/williams.pdf
 - 🆓 Linda Ackerman (2013), Mobile Health and Fitness Applications and Information Privacy: https://www.privacyrights.org/sites/default/files/mobile-medical-apps-privacy-consumer-report.pdf
-- 🆓 S. Mann, and J. Ferenbok (2013) New media and the power politics of soucveillance in a asurveillance-dominated world: https://ojs.library.queensu.ca/index.php/
+- 🆓 S. Mann, and J. Ferenbok (2013) New media and the power politics of sousveillance in a asurveillance-dominated world: https://ojs.library.queensu.ca/index.php/
 - 🆓 Minna Ruckenstein (2013), Visualized and interacted life: Personal analytics and engagements with data doubles: http://www.mdpi.com/2075-4698/4/1/68pdf
 - 🆓 Melanie Swan (2012), Health 2050: the realization of personalized medicine through crowdsourcing, the quantified self, and the participatory biocitizen: http://www.mdpi.com/2075-4426/2/3/93
-- 🆓 Mark Deuze (2011), Media, Culture & Socity: http://journals.sagepub.com/doi/abs/10.1177/0163443710386518
+- 🆓 Mark Deuze (2011), Media, Culture & Society: http://journals.sagepub.com/doi/abs/10.1177/0163443710386518
 - 🆓 I. Li, A. Dey, and J. Forlizzi (2010), A stage-based model of personal informatics systems: https://courses.cs.washington.edu/courses/cse440/15au/readings/PersonalInformatics-Li2010.pdf
 surveillance-and-society/article/view/veillance
 
@@ -103,6 +102,7 @@ surveillance-and-society/article/view/veillance
 - 🆓 Eric Meyer (2014), Inadvertent algorithmic cruelty: https://meyerweb.com/eric/thoughts/2014/12/24/inadvertent-algorithmic-cruelty/
 - 🆓 Frank Pasquale (2014), The dark market for personal data: https://www.nytimes.com/2014/10/17/opinion/the-dark-market-for-personal-data.html
 - 🆓 Michael Carney (2013), You are your data: The scary future of the quantified self movement: https://pando.com/2013/05/20/you-are-your-data-the-scary-future-of-the-quantified-self-movement/
+- 🆓 Stephen Few (2013), Slow Data: https://www.perceptualedge.com/blog/?p=1460
 - 🆓 John Cohen (2012), Geneticist Runs Personalized Medicine SuperStudy on Himself: https://www.wired.com/2012/03/diabetes-personal-genomics/
 - 🆓 Measured Me (2012), How to Design Self Experiments: http://measuredme.com/2012/09/quantified-self-how-to-designing-self-experiment-html/
 - 🆓 Stephen Wolfram (2012), The Personal Analytics of My Life: http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/
