@@ -5,7 +5,7 @@ QUANT HUMANISTS <br>
 SPRING 2018 <br> 
 DD MM YYYY
 
-## Assignment `##`: Title of Assignment (e.g. Initial thoughts on self-tracking experiment), [link to assignment in syllabus]()
+## Assignment `##`: Title of Assignment (e.g. Initial thoughts on self-tracking experiment), [link to assignment header in week X]()
  
 here you can put in an introduction to what your assignment topic is
 
