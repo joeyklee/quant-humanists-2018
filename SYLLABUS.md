@@ -35,7 +35,7 @@ NOTE: the `ASSIGNMENT DUE` column indicates what is due on that week after havin
 | GO TO  |  DATE  | THEME | ASSIGNMENT DUE | NOTE |
 | :---- | ------ | ------ | ----------- | ---- |
 |  <a href="WEEK_01.md" target="_blank">WEEK 1</a>   |  01/22/2018  | Track: Introduction to Quantified Humanists & Self-tracking | Hello & Welcome! | N/A |
-|  <a href="" target="_blank">WEEK 2</a>   |  01/29/2018  | Track: Representation and Access in Tracking | 1. Data collection <br> 2. 3 Project Review <br> 3. Reflection Post | N/A |
+|  <a href="WEEK_02.md" target="_blank">WEEK 2</a>   |  01/29/2018  | Track: Representation and Access in Tracking | 1. Data collection <br> 2. 3 Project Review <br> 3. Reflection Post | N/A |
 |  <a href="" target="_blank">WEEK 3</a>   |  02/05/2018  | Reflect: Visualization, Representation, and Analysis | 1. Methodology Documentation <br> 2. DIY Tracking Tutorial <br> 3. Reflection Post  | N/A |
 |  <a href="" target="_blank">WEEK 4</a>   |  02/12/2018  | Reflect: Quant Self as a Service | 1. "Dear Data" <br> 2. Reflection Post | N/A |
 |  X   |  02/19/2018  | *HOLIDAY, NO CLASS*  | *Continue Quant Self Service Concept*  | N/A |
