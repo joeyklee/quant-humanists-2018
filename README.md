@@ -14,6 +14,6 @@ We will introduce students to guest speakers, review and critique readings, proj
 
 Read on for the:
 - [syllabus](SYLLABUS.md)
-- [bibliography](BIBLIOGRAPHY.md)
+- [materials](MATERIALS.md)
 - lectures/exercises in this repository.
 
