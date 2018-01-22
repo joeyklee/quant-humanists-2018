@@ -51,3 +51,25 @@ Stephen Wolfram, [The Personal Analytics of my Life](http://blog.stephenwolfram.
 - [Cozy](https://cozy.io/en/) - the track everything in aggregate app, store privately
 - Mens, JP., [OwnTracks](http://owntracks.org/) - privately own your location data - GitHub](https://github.com/owntracks/ios)
 - Boesel, Whitney Erin., [The Woman vs. the Stick](https://thesocietypages.org/cyborgology/2012/09/20/the-woman-vs-the-stick-mindfulness-at-quantified-self-2012/)
+
+## ASSIGNMENT 2 (DUE: WEEK `03`, 5 FEB 2018)
+
+The assignment this week is to document, document, document. You will dedicate some time to document your methods for your data collection as well as design alternative methodologies to self-track. 
+ 
+Below you will find a checklist of tasks for this week.
+
+### Blog Post: Document Your Methodology
+- **About**:  Document your methodology for answering the questions you've set out last week - what are the tools you're using, the frequency of your measurements, helpful how-tos, pain-points and how you've overcome them, etc. Include photos, illustrations, charts, graphics, gifs, or video if necessary to effectively communicate and document your process.
+- **Submission**: Submit your Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2018 repository](https://github.com/joeyklee/quant-humanists-2018/issues). See NOTE below.
+
+### Blog Post: DIY Tracking Methodology
+- **About**: Do-It-Yourself(DIY) open source tracking methodology documentation - create a tutorial that makes it possible to track variables about your life without having to compromise your data or privacy to a questionable third-party. Think about what your current tracking applications offer and what formats and tools people might be able to "duct-tape" together to maintain control over their data and derive insightful feedback from their tracking.  Think about social implications of groups not typically represented by tracking or those people who might be adversely affected by tracking, but who could benefit from self-tracking. Include photos, illustrations, charts, graphics, gifs, or video if necessary to effectively communicate and document your process.
+- **Submission**: Submit your Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2018 repository](https://github.com/joeyklee/quant-humanists-2018/issues). See NOTE below. You may also consider submitting as part of [Instructables](https://www.instructables.com/) - if so, please submit link in the issues as per usual.
+
+### Blog Post: Reflection
+- **About**: short paragraph or phrase on what you learned this week.
+- **Submission**: Submit your Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2018 repository](https://github.com/joeyklee/quant-humanists-2018/issues). See NOTE below.
+
+**NOTE**: Please structure your blog post submissions according to the assignment template here: [Quant Humanist - assignment template](https://github.com/joeyklee/quant-humanists-2018/blob/master/_templates/assignment-submission-template.md)  
+
+
