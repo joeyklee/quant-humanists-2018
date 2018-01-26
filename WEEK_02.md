@@ -35,6 +35,7 @@ Stephen Wolfram, [The Personal Analytics of my Life](http://blog.stephenwolfram.
 - Wood, Chris., [The API of Me](https://nordicapis.com/the-api-of-me/)
 - Sandoval, Kristofer., [What data formats should my API support?](https://nordicapis.com/what-data-formats-should-my-api-support/)
 - Lowe, Scott., [What is JSON](https://blog.scottlowe.org/2013/11/08/a-non-programmers-introduction-to-json/)
+- MacWright, Tom, [More than you'd ever want to know about geojson](https://macwright.org/2015/03/23/geojson-second-bite)
 - Grant, Azure., [Hot Stuff: Body Temperature Tracking and Ovulatory Cycles](http://quantifiedself.com/2017/04/hot-stuff-body-temperature-tracking-ovulatory-cycles/) 
 - [Azure Grant, Hot Stuff: Body Temperature Tracking and Ovulatory Cycles - Talk](https://vimeo.com/groups/quantifiedself/videos/223696336)
 - Molteni, Meghan.,[The Problem With Fitness Studies Based on Activity Apps](https://www.wired.com/story/the-problem-with-fitness-studies-based-on-activity-apps/)
@@ -44,6 +45,7 @@ Stephen Wolfram, [The Personal Analytics of my Life](http://blog.stephenwolfram.
 - [Lilian Karabaic, self-tracking blog](http://anomalily.net/)
 - [Lilian Karabaic, What if my life was the economy of a small country](https://vimeo.com/groups/quantifiedself/videos/227181779)
 - [Feldmann, Jacqueline, Full Brightness](https://thenewinquiry.com/full-brightness/) 
+- [Campos, Hugo., Fighting for the Right to Open his Heart Data: Hugo Campos at TEDxCambridge 2011](https://www.youtube.com/watch?v=oro19-l5M8k)
 
 ## ADDITIONAL RESOURCES
 - Williams, Talithia., Talk, [Own your body’s data](https://www.ted.com/talks/talithia_williams_own_your_body_s_data)
