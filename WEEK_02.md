@@ -7,8 +7,8 @@ This week in Quant Humanists, we will be thinking about representation and acces
 
 **DISCUSSION**:
 
-- Review projects gathered by the class (see week 1 assignment)
 - Updates on class’s data collection, positives, pain-points, debugging, and more. 
+- Review projects gathered by the class (see week 1 assignment)
 - Quick primer on data, data formats, structuring data for analysis
 - Short presentation on access and implications of having access or not having access to raw data, TODO:URL
 
