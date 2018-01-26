@@ -46,6 +46,7 @@ Stephen Wolfram, [The Personal Analytics of my Life](http://blog.stephenwolfram.
 - [Lilian Karabaic, What if my life was the economy of a small country](https://vimeo.com/groups/quantifiedself/videos/227181779)
 - [Feldmann, Jacqueline, Full Brightness](https://thenewinquiry.com/full-brightness/) 
 - [Campos, Hugo., Fighting for the Right to Open his Heart Data: Hugo Campos at TEDxCambridge 2011](https://www.youtube.com/watch?v=oro19-l5M8k)
+- [Campus, Hugo., My Device, My Body, My Data](http://quantifiedself.com/2015/02/my-device-my-body-my-data-hugo-campos/) - "The FDA is concerned that if patients had access to data, they might self-diagnose. And patients should not self-diagnose or self-medicate. I disagree. "
 
 ## ADDITIONAL RESOURCES
 - Williams, Talithia., Talk, [Own your body’s data](https://www.ted.com/talks/talithia_williams_own_your_body_s_data)
