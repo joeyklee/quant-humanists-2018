@@ -47,6 +47,7 @@ Stephen Wolfram, [The Personal Analytics of my Life](http://blog.stephenwolfram.
 - [Feldmann, Jacqueline, Full Brightness](https://thenewinquiry.com/full-brightness/) 
 - [Campos, Hugo., Fighting for the Right to Open his Heart Data: Hugo Campos at TEDxCambridge 2011](https://www.youtube.com/watch?v=oro19-l5M8k)
 - [Campus, Hugo., My Device, My Body, My Data](http://quantifiedself.com/2015/02/my-device-my-body-my-data-hugo-campos/) - "The FDA is concerned that if patients had access to data, they might self-diagnose. And patients should not self-diagnose or self-medicate. I disagree. "
+- [MacDonald, Kyle., Sleep](https://medium.com/@kcimc/sleep-and-fatigue-328b05f854a8)
 
 ## ADDITIONAL RESOURCES
 - Williams, Talithia., Talk, [Own your body’s data](https://www.ted.com/talks/talithia_williams_own_your_body_s_data)
@@ -54,6 +55,8 @@ Stephen Wolfram, [The Personal Analytics of my Life](http://blog.stephenwolfram.
 - [Cozy](https://cozy.io/en/) - the track everything in aggregate app, store privately
 - Mens, JP., [OwnTracks](http://owntracks.org/) - privately own your location data - GitHub](https://github.com/owntracks/ios)
 - Boesel, Whitney Erin., [The Woman vs. the Stick](https://thesocietypages.org/cyborgology/2012/09/20/the-woman-vs-the-stick-mindfulness-at-quantified-self-2012/)
+- #WeAreNotWaiting, Patients taking charge [Panel discussion](https://www.youtube.com/watch?v=TFWt4AVHUE8)
+- [WIRED, 23andMe Is Digging Through Your Data for a Parkinson's Cure](https://www.wired.com/story/23andme-is-digging-through-your-data-for-a-parkinsons-cure/)
 
 ## ASSIGNMENT 2 (DUE: WEEK `03`, 5 FEB 2018)
 
