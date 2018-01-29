@@ -57,6 +57,12 @@ Stephen Wolfram, [The Personal Analytics of my Life](http://blog.stephenwolfram.
 - Boesel, Whitney Erin., [The Woman vs. the Stick](https://thesocietypages.org/cyborgology/2012/09/20/the-woman-vs-the-stick-mindfulness-at-quantified-self-2012/)
 - #WeAreNotWaiting, Patients taking charge [Panel discussion](https://www.youtube.com/watch?v=TFWt4AVHUE8)
 - [WIRED, 23andMe Is Digging Through Your Data for a Parkinson's Cure](https://www.wired.com/story/23andme-is-digging-through-your-data-for-a-parkinsons-cure/)
+- [Reporter-App Keys](https://gist.github.com/dbreunig/9315705/a85dbb45b323ed39f57720229c5cdd2da166f892)
+- [Muffet, Alec., Strava shows CIA training facilities](https://twitter.com/AlecMuffett/status/957615895899238401)
+- [We Kill People Based on Metadata](https://www.youtube.com/watch?v=UdQiz0Vavmc)
+- [Apple iHealth XML to CSV Converter](http://ericwolter.com/projects/health-export.html)
+- [Apple iHealth analysis workflow](http://www.ryanpraski.com/apple-health-data-how-to-export-analyze-visualize-guide/)
+- [NPM csv2api package](https://www.npmjs.com/package/node-csv2api)
 
 ## ASSIGNMENT 2 (DUE: WEEK `03`, 5 FEB 2018)
 
