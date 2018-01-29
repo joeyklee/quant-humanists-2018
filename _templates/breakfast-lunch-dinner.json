@@ -1,0 +1,67 @@
+{
+    "username": "TODO",
+    "name": "TODO",
+    "activity":
+    {
+        "breakfast": [
+        {
+            "datetime_est": "TODO",
+            "location":
+            {
+                "locationName": "TODO",
+                "address": "TODO",
+                "lat": "TODO",
+                "lon": "TODO",
+                "satisfying"
+
+            },
+            "properties":
+            {
+                "satisfying": "TRUE/FALSE",
+                "review": "TODO",
+                "rating_of_5": "TODO",
+                "additionalNotes": "TODO"
+            }
+        }],
+        "lunch": [
+        {
+            "datetime_est": "TODO",
+            "location":
+            {
+                "locationName": "TODO",
+                "address": "TODO",
+                "lat": "TODO",
+                "lon": "TODO",
+                "satisfying"
+
+            },
+            "properties":
+            {
+                "satisfying": "TRUE/FALSE",
+                "review": "TODO",
+                "rating_of_5": "TODO",
+                "additionalNotes": "TODO"
+            }
+        }],
+        "dinner": [
+        {
+            "datetime_est": "TODO",
+            "location":
+            {
+                "locationName": "TODO",
+                "address": "TODO",
+                "lat": "TODO",
+                "lon": "TODO",
+                "satisfying"
+
+            },
+            "properties":
+            {
+                "satisfying": "TRUE/FALSE",
+                "review": "TODO",
+                "rating_of_5": "TODO",
+                "additionalNotes": "TODO"
+            }
+        }]
+    }
+}
