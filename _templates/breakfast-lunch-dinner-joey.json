@@ -1,7 +1,7 @@
 {
     "username": "joeyklee",
     "name": "Joey Lee",
-    "activity":
+    "activities":[
     {
         "breakfast": [
         {
@@ -57,5 +57,5 @@
                 "additionalNotes": "NULL"
             }
         }]
-    }
+    }]
 }
