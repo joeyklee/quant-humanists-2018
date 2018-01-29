@@ -2,9 +2,8 @@
     "username": "joeyklee",
     "name": "Joey Lee",
     "activities":[
-    {
-        "breakfast": [
         {
+            "activity": "breakfast",
             "datetime_est": "2018-01-29 07:30",
             "location":
             {
@@ -20,9 +19,9 @@
                 "rating_of_5": "4",
                 "additionalNotes": "Note to Joey: Avoid gluten. Pass on the toast"
             }
-        }],
-        "lunch": [
+        },
         {
+            "activity": "lunch",
             "datetime_est": "2018-01-29 12:45",
             "location":
             {
@@ -38,9 +37,9 @@
                 "rating_of_5": "4.2",
                 "additionalNotes": "Note to Joey: Eat less meat."
             }
-        }],
-        "dinner": [
+        },
         {
+            "activity": "dinner",
             "datetime_est": "2018-01-29 17:30",
             "location":
             {
@@ -56,6 +55,24 @@
                 "rating_of_5": "4",
                 "additionalNotes": "NULL"
             }
-        }]
-    }]
+        },
+        {
+            "activity": "snack",
+            "datetime_est": "2018-01-29 17:30",
+            "location":
+            {
+                "locationName": "home",
+                "address": "NULL",
+                "lat": "NULL",
+                "lon": "NULL"
+            },
+            "properties":
+            {
+                "satisfying": "FALSE",
+                "review": "NULL",
+                "rating_of_5": "1",
+                "additionalNotes": "Get more tasty snacks!"
+            }
+        }
+    ]
 }
