@@ -71,9 +71,13 @@ The assignment this week is to document, document, document. You will dedicate s
  
 Below you will find a checklist of tasks for this week.
 
+**EITHER:**
+
 ### Blog Post: Document Your Methodology
 - **About**:  Document your methodology for answering the questions you've set out last week - what are the tools you're using, the frequency of your measurements, helpful how-tos, pain-points and how you've overcome them, etc. Include photos, illustrations, charts, graphics, gifs, or video if necessary to effectively communicate and document your process.
 - **Submission**: Submit your Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2018 repository](https://github.com/joeyklee/quant-humanists-2018/issues). See NOTE below.
+
+**OR:**
 
 ### Blog Post: DIY Tracking Methodology
 - **About**: Do-It-Yourself(DIY) open source tracking methodology documentation - create a tutorial that makes it possible to track variables about your life without having to compromise your data or privacy to a questionable third-party. Think about what your current tracking applications offer and what formats and tools people might be able to "duct-tape" together to maintain control over their data and derive insightful feedback from their tracking.  Think about social implications of groups not typically represented by tracking or those people who might be adversely affected by tracking, but who could benefit from self-tracking. Include photos, illustrations, charts, graphics, gifs, or video if necessary to effectively communicate and document your process.
