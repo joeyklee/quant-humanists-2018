@@ -16,11 +16,12 @@ fs.readdir(path, function(err, items) {
     	if(items[i].endsWith(".json")){
     		var df = JSON.parse(fs.readFileSync(path + "/" + items[i]));
 
-	    	if(i < items.length-1){
-		        output =  output +  JSON.stringify(df) + ",";
-	    	} else{ 
-	    		output =  output + JSON.stringify(df);
-	    	}
+            output =  output +  JSON.stringify(df);
+	    	// if(i < items.length-1){
+		    //     output =  output +  JSON.stringify(df) + ",";
+	    	// } else{ 
+	    	// 	output =  output + JSON.stringify(df);
+	    	// }
     	}
 
     	
