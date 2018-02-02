@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>QH class activities</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin="" />
+  <!-- Make sure you put this AFTER Leaflet's CSS -->
+  <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js" integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw==" crossorigin=""></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.js"></script>
+  <div id="mapid"></div>
+  <style type="text/css">
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+  }
+
+  #mapid {
+    width: 100%;
+    height: 100%;
+  }
+  </style>
+</head>
+
+<body>
+  <div id="map"></div>
+  <script type="text/javascript">
+  var map = L.map('mapid').setView([40.674593, -73.963402], 13);
+
+  L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+
+  // L.marker([51.5, -0.09]).addTo(map)
+  //   .bindPopup('A pretty CSS3 popup.<br> Easily customizable.')
+  //   .openPopup();
+
+
+  d3.json("https://datasette-pztycniqrc.now.sh/csv-data-3dde446.json?sql=select+*+from+%5Bbreakfast-lunch-dinner.csv+-+Sheet1%281%29%5D", function(data){
+
+  	console.log(data.rows)
+  	console.log(data.columns)
+
+  	data.rows.forEach(function(record){
+  		var lat = record[6]
+  		var lng = record[7]
+
+  		var circleContent = 
+  		`
+  		<h2>${record[4]}</h2>
+  		<p>${record[2]} says that ${record[4]} is: ${record[9]}</p>
+  		<small>Address:<br> ${record[5]}</small>
+
+  		`  		
+  		
+  		var colors = ['blue', 'red', 'orange', 'purple', 'green'];
+  		var randomNumber = Math.floor(Math.random() * 4);
+
+
+  		L.circle([lat, lng], 200, {
+            color: colors[randomNumber],
+            fillColor: colors[randomNumber],
+            fillOpacity: 0.5
+        }).addTo(map)
+  			.bindPopup(circleContent)
+  			.openPopup();
+
+
+  	})
+  })
+  </script>
+</body>
+
+</html>
