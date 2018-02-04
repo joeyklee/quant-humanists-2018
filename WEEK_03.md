@@ -29,6 +29,7 @@ Becky Cooper, [Mapping Manhattan](http://mapyourmemories.tumblr.com/tagged/Manha
 
 - Avirgan, Jody., [Dear Data + FiveThirtyEight want you to visualize your podcast habits](http://fivethirtyeight.com/features/dear-data-and-fivethirtyeight-want-you-to-visualize-your-podcast-habits/) 
 - Anonymous., originally in WIRED, [The nerdy charm of artisanal, hand drawn infographics](http://onlinefitnesshelp.com/the-nerdy-charm-of-artisanal-hand-drawn-infographics/)
+- [Fry, Ben., Visualizing Data](https://www.safaribooksonline.com/library/view/visualizing-data/9780596514556/ch01.html)
 - Sniderman, Zachary., [Manhattan of the Mind](http://www.nytimes.com/interactive/2013/02/17/magazine/mapping-manhattan.html#2)
 - Farris, Jessica., [The hand-drawn infographics of W.E.B. Dubois](http://www.printmag.com/article/hand-drawn-infographics-w-e-b-dubois/)
 - Evans, Kristen., [Bullet Journaling as an analog journaling alternative](http://theperfectdiy.com/12-layout-ideas-youll-want-to-steal-for-your-bullet-journal/), from [Pinterest, strategies for journaling and data keeping](https://www.pinterest.com/pin/230950287122242133/)
