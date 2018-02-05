@@ -51,6 +51,8 @@ Becky Cooper, [Mapping Manhattan](http://mapyourmemories.tumblr.com/tagged/Manha
 - Von Bismark, Julius., [Topshot helmet](http://juliusvonbismarck.com/bank/index.php?/projects/topshot-helmet/) 
 - Hildebrandt, Lennart, and Otten, Heike., [Shifted Maps, FH Potsdam | UCLab](http://www.heikeotten.de/portfolio/shiftedmaps/)
 - Huang, Shan., [Iconic History](https://chrome.google.com/webstore/detail/iconic-history/hfacpfhgpmaifaanbmgbbjkfgelookom?hl=en) - visualize your [browser history in favicons](https://www.fastcodesign.com/3027816/this-plugin-visualizes-your-entire-browser-history#4)
+- [OpenNews.org, Drawing Conclusions from Data](https://source.opennews.org/articles/statistically-sound-data-journalism/)
+- [Rost, Lisa., 6 years of google searches](https://lisacharlotterost.github.io/2015/06/20/Searching-through-the-years/)
 
 ## ASSIGNMENT
 
