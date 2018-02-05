@@ -1,0 +1,60 @@
+{
+    "username": "friendlyStudent",
+    "name": "Friendly Student",
+    "activities":[
+        {
+            "activity": "dinner",
+            "datetime_est": "2018-01-29 16:58",
+            "location":
+            {
+                "locationName": "Ramen Zundo-ya",
+                "address": "84 E 10th St, New York, NY 10003",
+                "lat": 40.730964, 
+                "lon": -73.989871
+            },
+            "properties":
+            {
+                "satisfying": "TRUE",
+                "review": "Tasty Ramen near ITP",
+                "rating_of_5": 4,
+                "additionalNotes": "Check opening hours"
+            }
+        },
+        {
+            "activity": "snack",
+            "datetime_est": "2018-01-29 12:45",
+            "location":
+            {
+                "locationName": "Bagel Pub",
+                "address": "287 9th St, Brooklyn, NY 11215",
+                "lat": 40.669824, 
+                "lon": -73.986726
+            },
+            "properties":
+            {
+                "satisfying": "TRUE",
+                "review": "All the spreads!",
+                "rating_of_5": 4.5,
+                "additionalNotes": "Lox and scallion spread is off the hook"
+            }
+        },
+        {
+            "activity": "drinks",
+            "datetime_est": "2018-01-29 17:30",
+            "location":
+            {
+                "locationName": "Covenhoven",
+                "address": "730 Classon Ave, Brooklyn, NY 11238",
+                "lat": 40.675257,
+                "lon":  -73.960145
+            },
+            "properties":
+            {
+                "satisfying": "TRUE",
+                "review": "A whole lotta brews on tap. Nice atmosphere",
+                "rating_of_5": 5,
+                "additionalNotes": "Nice for working under the influence"
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "facts": {
+        "name": "TODO",
+        "bornLocation": "TODO",
+        "currentLocation": "TODO",
+        "bio": "TODO",
+        "website": "TODO",
+        "photo": "TODO",
+        "otherLocations": [
+            "TODO",
+            "TODO",
+            "TODO"
+        ],
+        "social": {
+            "twitter": "TODO",
+            "linkedin": "TODO",
+            "github": "TODO"
+        }
+    },
+    "skills": [
+        "TODO",
+        "TODO",
+        "TODO"
+    ],
+    "experience": [
+        {
+            "organization": "TODO",
+            "role": "TODO",
+            "description": "TODO",
+            "location": "TODO",
+            "startDate": "TODO",
+            "endDate": "TODO"
+        },
+        {
+            "organization": "TODO",
+            "role": "TODO",
+            "description": "TODO",
+            "location": "TODO",
+            "startDate": "TODO",
+            "endDate": "-"
+        }
+    ],
+    "education": [
+        {
+            "school": "New York University",
+            "program": "Interactive Telecommunications Program",
+            "degree": "Master's in Professional Studies",
+            "focus": "TODO",
+            "graduationYear": "TODO"
+        },
+        {
+            "school": "TODO",
+            "program": "TODO",
+            "degree": "TODO",
+            "focus": "TODO",
+            "graduationYear": "TODO"
+        }
+    ],
+    "supplementary": [
+        {
+            "note": "TODO"
+        },
+        {
+            "note": "TODO"
+        }
+    ]
+}
