@@ -12,7 +12,10 @@ This week in Quant Humanists we will be thinking about the role of visualization
 
 **Project Highlight**
 
-[SCREENSHOTS]
+![](https://raw.githubusercontent.com/joeyklee/quant-humanists-2018/master/assets/images/dear-data-2.jpg)
+
+![](https://raw.githubusercontent.com/joeyklee/quant-humanists-2018/master/assets/images/dear-data-1.jpg)
+
 Giorgia Lupi + Stefanie Posavec, [Dear Data](http://www.dear-data.com/theproject)
 Becky Cooper, [Mapping Manhattan](http://mapyourmemories.tumblr.com/tagged/Manhattan)
 
