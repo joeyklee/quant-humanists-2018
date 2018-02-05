@@ -8,7 +8,8 @@ This week in Quant Humanists we will be thinking about the role of visualization
 
 - Review of Week 2 Assignments
 - Updates on class’s data collection, positives, pain-points, debugging, and more. 
-- Presentation overview of the role of visualization and representation as a means of fostering reflection and analysis, TODO:URL
+- Presentation overview of the role of visualization and representation as a means of fostering reflection and analysis
+- [Week 3 Slides Presentation](https://docs.google.com/presentation/d/1_ogUt90SlxG9ofq-yvLJONEttx1YRKIdJgf6ok578IA/edit?usp=sharing)
 
 **Project Highlight**
 
