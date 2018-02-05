@@ -1,0 +1,46 @@
+datetime_est,username,name,activity,locationName,address,lat,lon,satisfying,review,rating_of_5,additionalNotes
+"""2018-01-29 07:30""",joeyklee,Joey Lee,breakfast,Tom's Diner,"782 Washington Ave, Brooklyn, NY 11238",40.674593,-73.963402,TRUE,Great American style diner. Excellent cinnamon swirl pancakes,4,Note to Joey: Avoid gluten. Pass on the toast
+"""2018-01-29 12:45""",joeyklee,Joey Lee,lunch,Taco Mahal,"73 7th Ave S, New York, NY 10014",40.732332,-74.0033,TRUE,Best idea ever. Chicken Tikka Masala in a taco naan.,4.2,Note to Joey: Eat less meat.
+"""2018-01-29 17:30""",joeyklee,Joey Lee,dinner,Baohaus,"238 E. 14th St, New York, NY 10003",40.7325,-73.985654,TRUE,Down-to-earth interior and tasty taiwanese style tacos served in bao buns,4,NULL
+"""2018-01-19 08:30""",greasy,Fries,afternoon tea,morimoto,"88 10th Ave, New York, NY 10011",40.743078,-74.007266,FALSE,overrated,4.2,NULL
+"""2018-01-10 01:01""",greasy,Fries,afternoon tea,Tao,"92 9th Ave, New York, NY 10011",40.742366,-74.004071,TRUE,good new chinese restaurant,4.3,NULL
+"""2018-02-01 14:33""",greasy,Fries,afternoon tea,Aureole,"135 W 42nd St, New York, NY 10036",40.755603,-73.985255,TRUE,"nice new american style food, michelin 1 star",4.4,NULL
+"""2018-01-29 07:30""",Dashkinok,Dasha Fomina,Breakfast,3N Dining Hall,"75 3rd Ave, New York, NY 10003",40.7313942,-73.9903791,TRUE,"Oatmeal, I like oatmeal",4,NULL
+"""2018-01-29 12:45""",Dashkinok,Dasha Fomina,Lunch,Sweetgreen,"10 Astor Pl, New York, NY 10003",40.729699,-73.992234,TRUE,"Salad, I like salad",4.3,NULL
+"""2018-01-29 17:30""",Dashkinok,Dasha Fomina,Dinner,3N Dining Hall,"75 3rd Ave, New York, NY 10003",40.7313942,-73.9903791,TRUE,"I also like broccolli, carrots, gets awful rep, i dont think its that bad",4,Portion size
+"""2018-01-29 09:30""",pokemon,pikachu,breakfast,by Chole,"240 Lafayette St, New York, NY 10012",40.726684,-73.996948,TRUE,,4,Null
+"""2018-01-29 12:45""",pokemon,pikachu,lunch,M2M,"19 Waverly Pl, New York, NY 10003",40.733146,-73.994086,TRUE,cheap,4,Null
+"""2018-01-29 17:30""",pokemon,pikachu,dinner,Boka,"9 St Marks Pl, New York, NY 10003",40.72972,-73.989137,TRUE,fried chicken on point!~,4.5,Null
+"""2018-01-27 14:00""",avigailv,avigail,shopping,Park Slope Food Coop,"782 Union St, Brooklyn, NY 11215",40.674863,-73.976531,FALSE,amazing cashwes,4,pretentious AF
+"""2018-01-27 14:00""",avigailv,avigail,people watching,Gorilla Coffee,"472 Bergen St, Brooklyn, NY 11217",40.680876,-73.975546,TRUE,bar seating is best,4.5,great latte
+"""2018-01-27 12:00""",avigailv,avigail,picnic ,Prospect Park,"Brooklyn, 11215",40.670994,-73.969954,TRUE,SUN!,5,Null
+"""2018-01-27 10:30""",chloemar10,Chloe Marten,breakfast,Bein Cuit,"120 Smith St, Brooklyn, NY 11201",40.688031,-73.989974,TRUE,mmm french baked goods,4.5,Null
+"""2018-01-27 13:30""",chloemar10,Chloe Marten,lunch,by Chloe,"1 Rockefeller Plaza, New York, NY 10020",40.758258,-73.978929,TRUE,Taco Quinoa bowl always good,4.3,Null
+"""2018-01-27 20:00""",chloemar10,Chloe Marten,dinner,Tuome,"536 E 5th St, New York, NY 10009",40.724209,-73.982981,FALSE,too heavy,3.7,Null
+"""2018-01-29 20:00""",hnedunuri,Harshita Nedunuri,dinner,Glady's,"788 Franklin Ave, Brooklyn, NY 11238",40.6717,-73.9579,TRUE,spicy and fun and good music,4.6,vegetarian carribean style fake meat is actually good
+"""2018-01-29 20:00""",hnedunuri,Harshita Nedunuri,dinner,The Four Horsemen,"295 Grand St, Brooklyn, NY 11211",40.7131,-73.9573,TRUE,the gnocchi tastes like delicate cheese pillows,4.5,"note to anyone: pretty pretentious, but everything is delicious and lots of good wines"
+"""2018-01-29 20:00""",hnedunuri,Harshita Nedunuri,lunch,Bunna Cafe,"1084 Flushing Ave, Brooklyn, NY 11237",40.7049,-73.9278,TRUE,vegan and ethiopian and absolutely delightful,4.6,lunch is super cheap and quiet
+"""2018-01-26 18:30""",mikibin,Miki ,dinner,Mala Project,"122 1st Avenue, New York, NY 10009",40.727363,-73.98538,TRUE,"chinese food, satisfying",4.7,NULL
+"""2018-01-27 13:30""",mikibin,Miki ,shopping,Whole Foods,"4 Union Square E, New York, NY 10003",40.734987,-73.99127,TRUE,"very clean, more choice",4.7,NULL
+"""2018-01-27 17:30""",mikibin,Miki ,cooking,Coral Tower,"129 3rd Ave, New York, NY 10003",40.733558,-73.986729,TRUE,"my own cooking, healthy",4.6,NULL
+"""2018-01-29 9:30""",mikibin,Miki ,borrow books,Bobst Library,"70 Washington Square S
+New York, NY 10012",40.729707,-73.997215,TRUE,prettier than I expected,4.4,NULL
+"""2018-01-29 16:30""",mikibin,Miki ,dinner,m2m,"19 Waverly Pl, New York, NY 10003",40.73094,-73.994572,FALSE,taste good but not feeling so well now,4.8,NULL
+"""2018-01-29 09:30""",mx,mx,breakfast,Gregorys Coffee,"10 Exchange Pl, Jersey City, NJ 07302",40.42593,-74.01586,TRUE,Cafe was good.,4.5,NULL
+"""2018-01-29 12:45""",mx,mx,shopping,Uniqlo Soho,"546 Broadway, New York, NY 10012",40.723427,-73.5953,TRUE,Big sale!,4.5,NULL
+"""2018-01-29 17:30""",mx,mx,afternoon tea ,Sobaya,"229 E 9th St, New York, NY 10003",40.729604,-73.59164,TRUE,Tasty fried chicken.,4,NULL
+"""2018-01-29 07:30""",krizfern,Krizia Fernando,COFFEE at work,Astoria Provisions,"12-23 Astoria Blvd, Long Island City, NY 11102",40.77256,-73.929117,TRUE,"Cool spot, coffee is OK",3,
+"""2018-01-29 12:45""",krizfern,Krizia Fernando,COFFEE after work,INFINITEA,"2309 Astoria Blvd, Astoria, NY 11102",40.772015,-73.923783,TRUE,"small spot, coffee is SUPER GOOD",4,
+"""2018-01-29 17:30""",krizfern,Krizia Fernando,COFFEE on weekends,Sweethaus,"135 Metropolitan Ave, Brooklyn, NY 11249",40.721718,-73.961234,TRUE,"Cool spot, coffee is GOOD",5,
+"""2018-01-29 07:30""",xujenna,Jenna Xu,breakfast,THE ELK,"128 Charles St, New York, NY 10014",40.734505,-74.006689,TRUE,"Nice relaxed ambience, good breakfast at relatively good prices ",4.5,
+"""2018-01-29 12:45""",xujenna,Jenna Xu,lunch,Num Pang Kitchen,"28 E 12th St, New York, NY 10003",40.734921,-73.991347,TRUE,Excellent contemporary bahn mi,5,
+"""2018-01-29 17:30""",xujenna,Jenna Xu,dinner,Red Bamboo,"140 West 4th Street, New York, NY 10012",40.731401,-73.999948,TRUE,"asian-y, diner-y vegan food",3.5,
+"""2018-01-29 07:30""",tr,ran tian,sleep,NewPort,"25 River Drive South, New Jerswy, NJ,07310 ",40.726608,-74.032886,TRUE,still tired,3,
+"""2018-01-29 12:45""",tr,ran tian,cooking ,NewPort,"25 River Drive South, New Jerswy, NJ,07310",40.726608,-74.032886,TRUE,the lunch was delicious and I was pretty full ,5,
+"""2018-01-29 17:30""",tr,ran tian,dinner,NewPort,"25 River Drive South, New Jerswy, NJ,07310",40.726608,-74.032886,TRUE,I ate in a rush,4,
+"""2018-01-29 14:51""",bill,billy,coffee East Village,Zuckers Bakery,"433 E 9th St, New York, NY 10009",40.727974,-73.983304,TRUE,wonderful cookies,5,best happy hour in EV
+"""2018-01-29 14:51""",bill,billy,coffee East Village,Three Seat Espresso & Barber,"137 Avenue A, New York, NY 10009",40.727122,-73.982971,TRUE,wonderful pumpkin bread,4,"bring card, no cash"
+"""2018-01-29 14:51""",bill,billy,coffee East Village,MUD Coffee,"307 E 9th St, New York, NY 10003",40.729119,-73.986623,TRUE,coffee tastes like hot chocolate forreal ,4,try to snag the window seat 
+"""2018-01-29 07:30""",nusecila,Alice Sun,breakfast,Hi-Collar,"214 E 10th St, New York, NY 10003",40.729531,-73.985894,TRUE,"Snazzy, compact Japanese cafe showcasing high-end coffee & sandwiches, plus sake & beer at night.",4,good for brunch; has weird collection of matchbox
+"""2018-01-29 12:45""",nusecila,Alice Sun,lunch,Neptune Oyster,"63 Salem St # 1, Boston, MA 02113",42.363487,-71.05604,TRUE,"Lines form for the raw bar & warm, buttered lobster rolls at this tiny, high-end oyster bar.",4.7,Best oysters but long line
+"""2018-01-29 17:30""",nusecila,Alice Sun,dinner,Phở Horn's Inc,"50 Ann Mary St # 403, Pawtucket, RI 02860",41.857622,-71.401882,TRUE,"Casual strip-mall restaurant specializing in Vietnamese noodle soups, plus classic dishes.",5,good for hangover as well :)))
