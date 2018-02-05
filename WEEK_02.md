@@ -10,7 +10,8 @@ This week in Quant Humanists, we will be thinking about representation and acces
 - Updates on class’s data collection, positives, pain-points, debugging, and more. 
 - Review projects gathered by the class (see week 1 assignment)
 - Quick primer on data, data formats, structuring data for analysis
-- Short presentation on access and implications of having access or not having access to raw data, [URL HERE](https://docs.google.com/presentation/d/1si5-psENRP6QV11ABLifNJnKZeD1g-rB9JwEegpV89Q/edit?usp=sharing)
+- Short presentation on access and implications of having access or not having access to raw data
+- [Week 2 Slides Presentation](https://docs.google.com/presentation/d/1si5-psENRP6QV11ABLifNJnKZeD1g-rB9JwEegpV89Q/edit?usp=sharing)
 
 
 **Project Highlight**
