@@ -37,6 +37,8 @@ Becky Cooper, [Mapping Manhattan](http://mapyourmemories.tumblr.com/tagged/Manha
 - Thorp, Jer., Blog, [On Data and Performance, Jer Thorp](http://blog.blprnt.com/blog/blprnt/on-data-and-performance)
 - Frick, Laurie., [Frickbits, turn your data into art](http://www.frickbits.com/)
 - Frick, Laurie., [Visual Language for Self Tracking](https://vimeo.com/31875319)
+- [Lupi, Georgia., Data Humanism](https://medium.com/@giorgialupi/data-humanism-the-revolution-will-be-visualized-31486a30dbfb)
+- [Lupi, Georgia., Bruises](https://medium.com/@giorgialupi/bruises-the-data-we-dont-see-1fdec00d0036)
 
 ## ADDITIONAL RESOURCES
 
