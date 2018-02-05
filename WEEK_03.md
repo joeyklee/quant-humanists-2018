@@ -63,6 +63,15 @@ This week you will, with a partner, embrace your inner Lupi-Posavek and "Dear Da
 - **About**: Using "dear data" as a guide, create a set of rules to visualize your data - you may use digital tools, but analog style is encouraged. Think about the ways in which Georgia and Stefanie parameterized the aspects of their records to produce their visualizations. Find ways to express your own personal style and aesthetic in the implementation of your rules. 
 - **Submission**: Document your process and submit **images of your output** along with the accompanying **description of your visualization** and post your Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2018 repository](https://github.com/joeyklee/quant-humanists-2018/issues). See NOTE below.
 
+from the [FiveThirtyEight Dear Data Feature](http://fivethirtyeight.com/features/dear-data-and-fivethirtyeight-want-you-to-visualize-your-podcast-habits/):
+
+```
+If you want to take part, keep in mind the basic rules of the Dear Data series:
+
+    - The front of your postcard should only feature the visualization.
+    - On the reverse, include a legend to explain your work.
+    - You can use any shapes, colors, or materials you want, just as long as it fits on a postcard. But be creative! Can you move beyond a bar chart?
+```
 
 ### Blog Post: Reflection
 - **About**: short paragraph or phrase on what you learned this week.
