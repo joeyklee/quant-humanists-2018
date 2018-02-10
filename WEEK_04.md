@@ -29,6 +29,8 @@ Laurie Frick, [FrickBits](http://www.frickbits.com/)
 
 ## READINGS
 
+- Cooper, [Service Design 101](https://www.cooper.com/journal/2014/07/service-design-101)
+- Cooper, [Service Blueprints: Laying the Foundation](https://www.cooper.com/journal/2014/08/service-blueprints-laying-the-foundation)
 - Samadzadeh, Sharhrzad., [“So, like, what is service design?”](https://medium.com/@shahrsays/so-what-actually-is-service-design-e0ed602b77a9)
 - Janna, Meld Studios, [What service design is and is not](http://www.meldstudios.com.au/2016/08/31/what-service-design-is-and-what-it-is-not/)
 - Pham, Chi., [Part II: A Service Design Case Study](https://uxdesign.cc/part-ii-a-service-design-case-study-599ff4ba5e9d)
