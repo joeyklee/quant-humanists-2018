@@ -32,7 +32,7 @@ Laurie Frick, [FrickBits](http://www.frickbits.com/)
 - This is Service Design Thinking [vimeo](https://vimeo.com/20527888)
 - What is service design? [video](https://www.youtube.com/watch?v=BeEUemtdoJQ)
 - Cooper, [Service Design 101](https://www.cooper.com/journal/2014/07/service-design-101)
-- 
+- [Designing for Happyiness, J.Paul Neeley](https://www.youtube.com/watch?v=n2rpIjWGeUY&t=1s)
 - Cooper, [Service Blueprints: Laying the Foundation](https://www.cooper.com/journal/2014/08/service-blueprints-laying-the-foundation)
 - Cooper, [Transforming Customer Experience with Journey Mapping](https://www.cooper.com/journal/2015/8/transforming-customer-experience-with-journey-mapping) + [pdf template](https://drive.google.com/file/d/0B9irWG_jKY4rN2lfbGdiclFSTU0/view)
 - Samadzadeh, Sharhrzad., [“So, like, what is service design?”](https://medium.com/@shahrsays/so-what-actually-is-service-design-e0ed602b77a9)
@@ -54,9 +54,12 @@ Laurie Frick, [FrickBits](http://www.frickbits.com/)
 - [Xplane Updated Empathy Map Canvas](https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a) + [pdf](http://gamestorming.com/empathy-map-canvas-006/)
 - ["So you want to be a service designer" by Jamin Hegeman](https://www.youtube.com/watch?v=bA_gnQqjmz4)
 - [This is Service Design Doing, Methods](https://www.thisisservicedesigndoing.com/methods)
-- Bitner et al., [Service Blueprinting: A Practical Technique for Service Innovation
-](http://files.g51studio.com/parsons/ServiceBlueprinting.pdf)
-
+- Bitner et al., [Service Blueprinting: A Practical Technique for Service Innovation](http://files.g51studio.com/parsons/ServiceBlueprinting.pdf)
+- [Service Design Concept video, RCA 2014 Service design project- sainsbusy's 2020](https://www.youtube.com/watch?v=LDeBIhBmJpA)
+- [Salesforce, "the handoff" commercial // bad service experience](https://www.youtube.com/watch?v=s8IRyYtvA0M)
+- [Nick de Leon SDGC 2015 Keynote](https://www.youtube.com/watch?v=u1jMoKySTEw)
+[Fantasy.co // 23andMe information design and delivery](http://fantasy.co/work/23andme)
+[Fantas.co // 23andMe concept for travel](http://fantasy.co/work/tinder-for-travel) + [and healthcare](http://fantasy.co/work/healthcare)
 
 ## ASSIGNMENT
 
