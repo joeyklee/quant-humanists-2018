@@ -29,8 +29,12 @@ Laurie Frick, [FrickBits](http://www.frickbits.com/)
 
 ## READINGS
 
+- This is Service Design Thinking [vimeo](https://vimeo.com/20527888)
+- What is service design? [video](https://www.youtube.com/watch?v=BeEUemtdoJQ)
 - Cooper, [Service Design 101](https://www.cooper.com/journal/2014/07/service-design-101)
+- 
 - Cooper, [Service Blueprints: Laying the Foundation](https://www.cooper.com/journal/2014/08/service-blueprints-laying-the-foundation)
+- Cooper, [Transforming Customer Experience with Journey Mapping](https://www.cooper.com/journal/2015/8/transforming-customer-experience-with-journey-mapping) + [pdf template](https://drive.google.com/file/d/0B9irWG_jKY4rN2lfbGdiclFSTU0/view)
 - Samadzadeh, Sharhrzad., [“So, like, what is service design?”](https://medium.com/@shahrsays/so-what-actually-is-service-design-e0ed602b77a9)
 - Janna, Meld Studios, [What service design is and is not](http://www.meldstudios.com.au/2016/08/31/what-service-design-is-and-what-it-is-not/)
 - Pham, Chi., [Part II: A Service Design Case Study](https://uxdesign.cc/part-ii-a-service-design-case-study-599ff4ba5e9d)
@@ -43,6 +47,16 @@ Laurie Frick, [FrickBits](http://www.frickbits.com/)
 - Journal Life, [A Planner for Motivation](https://www.kickstarter.com/projects/journallife/journal-life-the-planner-for-motivation) 
 - Ward, Brandon, [Kickstarter failure, crowdsourcing self-quantification in 2013](https://www.kickstarter.com/projects/1692722489/brandon-ward-october-2013)
 - Capital Crazy Productions, Film, [Sci-Fi: The Quantified Self - A Family of Self Trackers](https://www.kickstarter.com/projects/imoto/tqsfilm)
+- Cooper, [6 Lessons for Service Blueprinting](https://www.cooper.com/journal/2015/4/6-lessons-for-service-blueprinting)
+- Cooper, [Design Fundamentals: 3 Key Practices for Building Your Own Design Process](https://www.cooper.com/journal/2014/11/design-fundamentals-3-key-practices-for-building-your-own-design-process)
+- Cooper, [Persona Empathy Mapping](https://www.cooper.com/journal/2014/5/persona-empathy-mapping)
+- Cooper [Customer Journey Map or Service Blueprint?](https://www.cooper.com/journal/2015/5/journey-map-or-service-blueprint)
+- [Xplane Updated Empathy Map Canvas](https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a) + [pdf](http://gamestorming.com/empathy-map-canvas-006/)
+- ["So you want to be a service designer" by Jamin Hegeman](https://www.youtube.com/watch?v=bA_gnQqjmz4)
+- [This is Service Design Doing, Methods](https://www.thisisservicedesigndoing.com/methods)
+- Bitner et al., [Service Blueprinting: A Practical Technique for Service Innovation
+](http://files.g51studio.com/parsons/ServiceBlueprinting.pdf)
+
 
 ## ASSIGNMENT
 
