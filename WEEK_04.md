@@ -63,6 +63,7 @@ Laurie Frick, [FrickBits](http://www.frickbits.com/)
 - [Fantasy.co // 23andMe concept for travel](http://fantasy.co/work/tinder-for-travel) + [and healthcare](http://fantasy.co/work/healthcare)
 - [UX Mastery, How To Create A Customer Journey Map](https://www.youtube.com/watch?v=mSxpVRo3BLg)
 - [Designing for Financial Empowerment // The New School x NYC x Citigroup](http://dfe.nyc/)
+- [Professional Sharing, Yosuke Ushigome](https://vimeo.com/114499237)
 
 ## ASSIGNMENT
 
