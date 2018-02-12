@@ -64,6 +64,7 @@ Laurie Frick, [FrickBits](http://www.frickbits.com/)
 - [UX Mastery, How To Create A Customer Journey Map](https://www.youtube.com/watch?v=mSxpVRo3BLg)
 - [Designing for Financial Empowerment // The New School x NYC x Citigroup](http://dfe.nyc/)
 - [Professional Sharing, Yosuke Ushigome](https://vimeo.com/114499237)
+- [Philipp Schmidt, Stephan Bogner // Human Element](https://philippschmitt.com/projects/human-element)
 
 ## ASSIGNMENT
 
