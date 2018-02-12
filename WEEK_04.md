@@ -74,8 +74,20 @@ For the next two weeks you will use your insights from your personal data tracki
 You will have 2 weeks to complete this assignment. **NOTE: PRESIDENT’S DAY IS OBSERVED NEXT WEEK - NO CLASS ON 19 FEB 2018**
 
 ### Quant Self Service
-- **About**:  Develop a service concept around your own personal data. You might consider designing or imagining new ways of tracking your data, visualizing or providing feedback to yourself, or changing your behavior. Consider integrating some current or emerging technologies that might make your service something possible now or in the near future. Also consider community based or less technical approaches to build out your service concept. It is encouraged to prototype an aspect of your service or a video showcasing a scenario in which your service might operate to help make your idea more tangible.
+- **About**:  
+-  Develop a *mini* service concept around your own personal data. You will:
+    - Go through the process of and document creating persona, creating an empathy map, mapping your user journey (experience), sketching your service blueprint, and creating evidence of some of your service touchpoints. 
+    - State clearly (if possible) the opportunities you've identified based on your research and exercises and follow them through to make a convincing and thoughtful collection of experiences in your service. 
+    - make tangible some of your service touchpoints (for example paper prototypes, simple sketches, photographs/video). It is encouraged to prototype an aspect of your service or a video showcasing a scenario in which your service might operate to help make your idea more tangible.
+
+You might consider: 
+    - designing or imagining new ways of tracking your data, visualizing or providing feedback to yourself, or changing your behavior. 
+    - integrating some current or emerging technologies that might make your service something possible now or in the near future. 
+    - organizing community based or less technical approaches to build out your service concept. 
+    - doing some user testing (e.g. testing aspects of your proposed service on yourself) to identify what might actually work. 
+    
 - **Submission**: Submit documentation of your quant self service - including images, graphics, text descriptions, etc - as a Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2018 repository](https://github.com/joeyklee/quant-humanists-2018/issues). See NOTE below.
+- You will present your concept next class, convince us! 
 
 
 ### Blog Post: Reflection
