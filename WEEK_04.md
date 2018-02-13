@@ -8,7 +8,8 @@ This week in Quant Humanists, we will look into the service of self-tracking. Wh
  
 - Review of Week 3 Assignments
 - Updates on class’s data collection, positives, pain-points, debugging, and more. 
-- Presentation overview service design and personal--->public projects, TODO:URL
+- Presentation overview service design and personal--->public projects, 
+- [SLIDES URL](https://docs.google.com/presentation/d/1SfMMGAePAPwu8umnyMsNQ3o-DCBlp8cXmKl8kQJvpGs/edit?usp=sharing)
 
 **Project Highlight**:
 
