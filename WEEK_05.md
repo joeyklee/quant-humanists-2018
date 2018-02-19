@@ -14,7 +14,7 @@ This week in Quant Humanists, we will look into the things that motivate behavio
 
 **Project Highlight**:
 
-![Laurie Frick, Frickbits](https://static1.squarespace.com/static/5346c94ae4b0018ba5121a65/t/5445292be4b0f7692c74748a/1413818668097/frickbits_iphone6_compare?format=1500w)
+![]()
 [Wellcoin](https://www.digitaltrends.com/health-fitness/wellcoin-health-currency-wearables/)
 
 **STUDIO**:
@@ -23,11 +23,9 @@ This week in Quant Humanists, we will look into the things that motivate behavio
 
 ## PRACTICE
 
-- [Quick MVP](https://quickmvp.com/) - business idea testing tool
-- Cabunoc-Mayes, Abby., [Introduction to Open Canvas](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/develop-an-open-project-strategy-with-open-canvas/) 
-- project planning and idea testing
-- [Service Design Sprint](http://www.sprintmaster.co/)
-- UVA, MOOC, [Design thinking for innovation](https://www.coursera.org/learn/uva-darden-design-thinking-innovation)    
+- [DOG.CEO, an API for dog lovers](https://dog.ceo/)
+- [Random Cat Image API](http://random.cat/meow)
+- [Random User Generator API](https://randomuser.me/)
 
 ## READINGS
 
@@ -37,7 +35,6 @@ This week in Quant Humanists, we will look into the things that motivate behavio
 - Kushner, R. and Mechanick, J. [Communication and Behavioral Change Tools: A Primer for Lifestyle Medicine Counseling](https://link.springer.com/chapter/10.1007/978-3-319-24687-1_3)
 - Comm, Joel., [Top 10 Motivational Apps to help nail your resolutions](https://www.inc.com/joel-comm/top-10-motivational-apps-that-will-help-you-nail-your-resolutions.html)
 - Clear, James., [How Long Does it Actually Take to Form a New Habit? (Backed by Science)](https://jamesclear.com/new-habit)
-
 
 
 ## ADDITIONAL RESOURCES
