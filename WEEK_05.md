@@ -53,24 +53,18 @@ This week in Quant Humanists, we will look into the things that motivate behavio
 
 ## ASSIGNMENT
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-You will have 2 weeks to complete this assignment. **NOTE: PRESIDENT’S DAY IS OBSERVED NEXT WEEK - NO CLASS ON 19 FEB 2018**
+This week your assignment is to design a quantified self intervention. In this case, an intervention can any kind of trigger (e.g. push notifications, phone calls from friends, money donations or deductions) that helps to keep you on track with your habits, provides motivation, punishes you, etc. Think about the deeper underlying principles that motivate you, how various services play on those principles, and how you might (ab)use those principles in your own intervention design. 
 
 ### Quant Self Intervention
 - **About**:  
 -  Design or prototype an intervention that would help you to change your behavior based on the data you've gathered. Tech or community or social based interventions are fair game.
 -  You will:
-    - ...
-You might consider: 
+    - make your intervention tangible; make it visual or physical in some way. 
+    - justify how your intervention works and why it is convinving for you and why it might (or might not) be a useful strategy for others.
 
-- ...
+You might consider: 
+    - paper prototypes, a slide deck, a screen dummy, video, etc
+    - using your quant self service idea as a foundation to build your intervention on
 
 - **Submission**: Submit documentation of your quant self intervention - including images, graphics, text descriptions, etc - as a Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2018 repository](https://github.com/joeyklee/quant-humanists-2018/issues). See NOTE below.
 - You will present your concept next class, convince us!
