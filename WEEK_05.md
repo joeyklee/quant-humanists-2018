@@ -14,18 +14,20 @@ This week in Quant Humanists, we will look into the things that motivate behavio
 
 **Project Highlight**:
 
-![]()
+![Well coin twitter page](assets/images/wellcoin-001.png)
 [Wellcoin](https://www.digitaltrends.com/health-fitness/wellcoin-health-currency-wearables/)
 
 **STUDIO**:
 
-- Model/Map behavioral change for your data collection project, or area of focus (improve health, achieve a goal, find triggers, identify relationships, find balance, be mindful, engage in self-experimentation).
+- Model/Map behavioral change for your data collection project, or area of focus (e.g. improve health, achieve a goal, find triggers, identify relationships, find balance, be mindful, engage in self-experimentation).
 
 ## PRACTICE
 
 - [DOG.CEO, an API for dog lovers](https://dog.ceo/)
 - [Random Cat Image API](http://random.cat/meow)
 - [Random User Generator API](https://randomuser.me/)
+- [Glitch.com // "friendly community where you'll build the app of your dreams " ](https://glitch.com/)
+- [CRUD Tutorial by Zell Liew](https://zellwk.com/blog/crud-express-mongodb/)
 
 ## READINGS
 
