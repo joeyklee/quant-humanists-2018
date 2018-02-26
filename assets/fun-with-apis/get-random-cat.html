@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Get Random cat</title>
+	<!-- p5 -->
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/addons/p5.sound.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/addons/p5.dom.min.js"></script>
+
+	<style type="text/css">
+		html, body {
+		  margin: 0;
+		  padding: 0;
+		}
+		.container{
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+		}
+		img{
+			max-width:400px;
+			max-height:300px;
+			padding:10px 0px 10px 0px;
+		}
+		button{
+			width:200px;
+			height:200px;
+			border-radius: 50%;
+			background-color: tomato;
+			font-size: 36px;
+			box-shadow: 0px 2px 2px 0px;
+			border-color:black;
+			color:white;
+			font-weight:400;
+		}
+	</style>
+
+</head>
+<body>
+
+	<div class="container">
+		<h1>Random cat</h1>
+		<img id="cat-image" src="">
+		<button id="fetch-cat-button">Meow!</button>
+	</div>
+
+
+	<script type="text/javascript">
+		// Our globals
+		var fetchButton;
+		var catImage;
+
+		function setup(){
+			noCanvas();
+			// get the cat image
+			catImage = select("#cat-image");
+			// get the fetch button
+			fetchButton = select("#fetch-cat-button")
+			// attach a click event
+			fetchButton.mouseClicked(changeCat);
+
+			// on page load call the changecat Function to load in an image
+			changeCat("#fetch-cat-button");
+		}
+
+		function draw(){
+			noLoop();
+		}
+
+		/** 
+		* Calls the random cat api
+		*
+		* @function changecat
+		* @param {String} id of button
+		*/
+		function changeCat(buttonId){
+			//  the cat URL
+			var url = 'http://random.cat/meow';
+			// use http get request to get the data
+			httpGet(url, 'json', false, function(response) {
+				// console.log(response);
+				// change the src attribute of the image
+				catImage.attribute("src", response.file);
+			});
+		}
+
+	</script>
+</body>
+</html>
