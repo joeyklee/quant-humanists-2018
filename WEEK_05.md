@@ -50,7 +50,7 @@ This week in Quant Humanists, we will look into the things that motivate behavio
 - Berson, Josh., [Computable Bodies: Instrumented Life and the Human Somatic Niche](https://www.bloomsbury.com/uk/computable-bodies-9781472527622/)
 - Williams, Kaiton., [The weight of things lost: self-knowledge and personal informatics](http://www.personalinformatics.org/docs/chi2013/williams.pdf)
 - [Beeminder, using behavioral economics to keep you on track](https://www.beeminder.com/)
-
+- [Moves App bought by Facebook visualized in Carto](https://carto.com/blog/moves-bought-by-facebook-visualized-by-cartodb/)
 
 
 ## ASSIGNMENT
@@ -59,7 +59,7 @@ This week your assignment is to design a quantified self intervention. In this c
 
 ### Quant Self Intervention
 - **About**:  
--  Design or prototype an intervention that would help you to change your behavior based on the data you've gathered. Tech or community or social based interventions are fair game.
+-  Design or prototype an intervention that would help you to change your behavior based on the data you've gathered or based on the service you designed in you Quant Self Service. Tech or community or social based interventions are fair game.
 -  You will:
     - make your intervention tangible; make it visual or physical in some way. 
     - justify how your intervention works and why it is convinving for you and why it might (or might not) be a useful strategy for others.
