@@ -51,6 +51,23 @@ This week in Quant Humanists, we will look into the things that motivate behavio
 - Williams, Kaiton., [The weight of things lost: self-knowledge and personal informatics](http://www.personalinformatics.org/docs/chi2013/williams.pdf)
 - [Beeminder, using behavioral economics to keep you on track](https://www.beeminder.com/)
 - [Moves App bought by Facebook visualized in Carto](https://carto.com/blog/moves-bought-by-facebook-visualized-by-cartodb/)
+- [Katherine Dillion & Su Kim, ITP Designing Meaningful Interactions Course Materials](https://itp.nyu.edu/~kd49/ux/)
+- [Sensors for personalized statistics in soccer](http://gadgetsandwearables.com/2018/02/02/soccer-training-sensor/)
+- Fun Apis:
+    + [Pokemon API](https://pokeapi.co/docsv2/)
+    + [Random Cat Image](http://random.cat/meow)
+    + [Dog Info and Image API](https://dog.ceo/dog-api/)
+    + [Star Wars API](https://swapi.co/)
+    + [Random Joke API](https://icanhazdadjoke.com/api)
+    + [Chuck Norris Joke API](https://api.chucknorris.io/)
+- Other APIs:
+    + [Dronestre.am, drone strike data](https://www.programmableweb.com/api/dronestream)
+    + [Random User Profile](https://randomuser.me/)
+    + [OpenWeatherMap](http://openweathermap.org/)
+    + [OpenWeathermap, Historical Weather](https://openweathermap.org/history)
+    + [International Space Station](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)
+    + [AQ ICN, Air Quality API](http://aqicn.org/api/)
+
 
 ## ASSIGNMENT
 
