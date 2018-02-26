@@ -10,7 +10,7 @@ This week in Quant Humanists, we will look into the things that motivate behavio
 - Review of Week 4 Assignments
 - Updates on class’s data collection, positives, pain-points, debugging, and more. 
 - Presentation overview 
-- [SLIDES URL]()
+- [SLIDES URL](https://docs.google.com/presentation/d/1bO7ZcrxedCThtAxMg2WOnh6UheT6TDdUEwyEBycTAWc/edit#slide=id.g322da65d49_0_144)
 
 **Project Highlight**:
 
@@ -50,7 +50,6 @@ This week in Quant Humanists, we will look into the things that motivate behavio
 - Berson, Josh., [Computable Bodies: Instrumented Life and the Human Somatic Niche](https://www.bloomsbury.com/uk/computable-bodies-9781472527622/)
 - Williams, Kaiton., [The weight of things lost: self-knowledge and personal informatics](http://www.personalinformatics.org/docs/chi2013/williams.pdf)
 - [Beeminder, using behavioral economics to keep you on track](https://www.beeminder.com/)
-
 
 
 ## ASSIGNMENT
