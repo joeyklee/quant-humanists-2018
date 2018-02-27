@@ -74,7 +74,7 @@ See:
     + [OpenWeathermap, Historical Weather](https://openweathermap.org/history)
     + [International Space Station](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)
     + [AQ ICN, Air Quality API](http://aqicn.org/api/)
-
+-[Persuasive Tech, Stanford](http://captology.stanford.edu/)
 
 ## ASSIGNMENT
 
