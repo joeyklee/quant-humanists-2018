@@ -27,8 +27,8 @@ See:
 
 - [Random Dog Image App](practice/fun-with-apis/get-random-dog.html)
 - [Random Cat Image App](practice/fun-with-apis/get-random-cat.html)
-- [#ChuckNorrisJokesForever App](practice/fun-with-apis/ get-random-joke-forever.html) // you might need to fix something that's broken 😘
-- [Where's the International Space Station App](practice/fun-with-apis/ get-space-station.html)
+- [#ChuckNorrisJokesForever App](practice/fun-with-apis/get-random-joke-forever.html) // you might need to fix something that's broken 😘
+- [Where's the International Space Station App](practice/fun-with-apis/get-space-station.html)
 
 - [DOG.CEO, an API for dog lovers](https://dog.ceo/)
 - [Random Cat Image API](http://random.cat/meow)
