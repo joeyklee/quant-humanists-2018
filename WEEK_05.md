@@ -44,7 +44,7 @@ See:
 - Kushner, R. and Mechanick, J. [Communication and Behavioral Change Tools: A Primer for Lifestyle Medicine Counseling](https://link.springer.com/chapter/10.1007/978-3-319-24687-1_3)
 - Comm, Joel., [Top 10 Motivational Apps to help nail your resolutions](https://www.inc.com/joel-comm/top-10-motivational-apps-that-will-help-you-nail-your-resolutions.html)
 - Clear, James., [How Long Does it Actually Take to Form a New Habit? (Backed by Science)](https://jamesclear.com/new-habit)
-
+- Monteiro, Mike., [13 Ways Designers Screw Up Client Presentations](https://medium.com/@monteiro/13-ways-designers-screw-up-client-presentations-51aaee11e28c)
 
 ## ADDITIONAL RESOURCES
 
