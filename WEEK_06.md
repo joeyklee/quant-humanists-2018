@@ -9,15 +9,15 @@ This week in Quant Humanists, we will look at the ways we can escape the gaze of
 - Review of Week 5 Assignments
 - Updates on class’s data collection, positives, pain-points, debugging, and more. 
 - Presentation overview 
-- [SLIDES URL](https://docs.google.com/presentation/d/1bO7ZcrxedCThtAxMg2WOnh6UheT6TDdUEwyEBycTAWc/edit#slide=id.g322da65d49_0_144)
+- [SLIDES URL](https://docs.google.com/presentation/d/1BX1bX_puR_ipcS0gXgeUrL6RGlbtTyeoi9pIdIlEjnQ/edit#slide=id.g349f224b12_0_0)
 
 **Project Highlight**:
 
 ![UnfitBits Site](assets/images/unfitbits.png)
-[Unfitbits](http://www.unfitbits.com/)
+*[Unfitbits](http://www.unfitbits.com/)*, Tega Brain, Surya Mattu + collaborators
 
 ![Stealthwear Burqa](assets/images/stealth-wear-burqa.png)
-[Stealth Wear](https://ahprojects.com/projects/stealth-wear/)
+*[Stealth Wear](https://ahprojects.com/projects/stealth-wear/)*, Adam Harvey
 
 **STUDIO**:
 
