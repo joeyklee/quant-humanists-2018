@@ -48,7 +48,7 @@ This week in Quant Humanists, we will look at the ways we can escape the gaze of
 - Brain, Tega, [Unfit Bits](http://tegabrain.com/Unfit-Bits) + [Unfit Bits Project](http://www.unfitbits.com/index.html)                    - Fitbit Hacks [Surveillance](https://www.youtube.com/watch?v=VJnSK4htwoc)
 - [FATbit, fitbit hacks](https://www.youtube.com/watch?v=tjTLOKjB_50)
 - Anonymous contributors + Dewey-Hagborg, Heather., [A list of bio hacking / surveillance avoidance readings](http://biononymous.me/texts/)
-
+- [How to use 23 and me without giving up your genetic privacy](https://venturebeat.com/2013/09/20/how-to-use-23andme-without-giving-up-your-genetic-privacy/)
 
 ## ASSIGNMENT
 
