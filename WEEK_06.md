@@ -56,7 +56,7 @@ This week your assignment is obfuscate your date, or circumvent your trackers.
 1. Obfuscate data/circumvention collection assignment. Develop a method to hack one (or more) of your tracking apps. Software or hardware solutions or a combo of both are welcome. Document your process. Write a short reflection about your hack - how did you do it? What information is gained or lost? What are the implications of hacking your data in the way that you did? 
 2. Make an instructable about your hack (e.g. http://www.instructables.com/id/DNA-Spoofing-DIY-Counter-Surveillance/)
 
-### Quant Self Intervention
+### Hack your tracker / Untrack me
 - **About**: Develop a method to hack one (or more) of your tracking apps. Software or hardware solutions or a combo of both are welcome. Document your process. Write a short reflection about your hack - how did you do it? What information is gained or lost? What are the implications of hacking your data in the way that you did?
 
 1. Obfuscate data/circumvention collection assignment. Develop a method to hack one (or more) of your tracking apps. Software or hardware solutions or a combo of both are welcome. Document your process.
