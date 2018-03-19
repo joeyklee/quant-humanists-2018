@@ -79,7 +79,7 @@
 			var url = 'https://dog.ceo/api/breeds/image/random';
 			// use http get request to get the data
 			httpGet(url, 'json', false, function(response) {
-				// console.log(response);
+				console.log(response);
 				// change the src attribute of the image
 				dogImage.attribute("src", response.message);
 			});
