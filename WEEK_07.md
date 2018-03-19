@@ -8,8 +8,8 @@ This week in Quant Humanists, we will be exploring the domain of forced tracking
 **DISCUSSION**:
  
 - Review of Week 6 Assignments
-- Updates on class’s data collection, positives, pain-points, debugging, and more. 
-- Presentation overview 
+- Short Presentation
+- [Tutorial: datasette publish](/practice/datasette-publish-tutorial/README.md)
 - [SLIDES URL]()
 
 **Project Highlight**:
@@ -17,6 +17,10 @@ This week in Quant Humanists, we will be exploring the domain of forced tracking
 ![SCREENSHOTS]
 [Camera Restricta](https://philippschmitt.com/projects/camera-restricta)
 
+**TUTORIAL**:
+
+- [Tutorial: datasette publish](/practice/datasette-publish-tutorial/README.md)
+- A short tutorial to get familiar with publishing, querying, and visualizing data using datasette publish.
 
 **STUDIO**:
 
@@ -43,18 +47,25 @@ This week in Quant Humanists, we will be exploring the domain of forced tracking
 
 ## ASSIGNMENT
 
-This week your assignment is obfuscate your date, or circumvent your trackers. 
-1. Obfuscate data/circumvention collection assignment. Develop a method to hack one (or more) of your tracking apps. Software or hardware solutions or a combo of both are welcome. Document your process. Write a short reflection about your hack - how did you do it? What information is gained or lost? What are the implications of hacking your data in the way that you did? 
-2. Make an instructable about your hack (e.g. http://www.instructables.com/id/DNA-Spoofing-DIY-Counter-Surveillance/)
+This week, you will be preparing a proposal for your final projects. 
 
 ### Final Project Proposal
-- **About**: 
-- ASSIGNED: Final Project proposal
-Include a quippish timeline of your reflection "thesis statements", and design a way to represent your mood throughout the course. 
+
+- **About**: For your final projects, you will draw upon your personal data collection and the insights gained from your weekly assignments to design and develop a project that critically engages with one or more (or all) of the stages of the quantified self pipeline - track, reflect, act - covered throughout this course.
+- It is important that you manage your ambitions by clearly defining your research question, focusing your design concept, and keeping your project scope tight. You final project will be evaluated on how clearly your concept is communicated through your chosen media and your thoughtfulness in considering all the things that you know as well as what you don't. Therefore it is important to take the time to read, write out, sketch, moodboard, and concept your final project proposal.  
+- Your final project proposal is an opportunity for you to do the necessary initial research to clearly state the question you seek to address and the social phenomenon you're interested to comment on and your planned methods to communicate your idea. Be prepared to convince us about your concept and the methods with which you plan to make that concept tangible. 
+- Requirements:
+    - **Background research / Literature review**: clear indication that you've researched the current state of the art, literature, existing project landscape and/or similar works. Collect references and associated visuals.
+    - **Moodboard**: collection of images and references that point towards the style, feeling, or interactions you intend to develop through your project
+    - **Hypothesis / Definition of question(s)**: based on your research and experience define the question(s) you intend to approach / comment on through your final project.
+    - **Objectives**: describe tangible outcomes of your final project (e.g. create a hardware installation piece, develop an open API for XYZ)
+    - **Goals**: describe the higher level purpose of your intended project (e.g. create awareness about digital privacy issues, create hope for the future of AI in the world)
+    - **Sketches / Technical considerations**: sketches of the ways you intend to bring your goals to fruition.
+    - **Presentation of Proposal**: We will have a critique and feedback session next week, so please be ready to present your proposal in coherent and logical format (5 min for presentation).
 
 
 ### Blog Post: Reflection
-- **About**: write a short reflection about your hack - how did you do it? What information is gained or lost? What are the implications of hacking your data in the way that you did? 
+- **About**: Include a quippish timeline of your reflection "thesis statements", and design a way to represent your mood throughout the course. 
 - **Submission**: Submit your Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2018 repository](https://github.com/joeyklee/quant-humanists-2018/issues). See NOTE below.
 
 
