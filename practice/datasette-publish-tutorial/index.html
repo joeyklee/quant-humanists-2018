@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Datasette Publish Sketch</title>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/addons/p5.dom.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/addons/p5.sound.js"></script>
+</head>
+<body>
+
+<script type="text/javascript">
+
+	const datasetteUrl = `https://datasette-qlxfjobxdf.now.sh/csv-data-8237c75`
+
+	let myQueries = {
+		automatedCount: `SELECT COUNT(*) FROM [emails-20180312-20180318] WHERE category = "automated"`,
+		workMails: `SELECT * FROM [emails-20180312-20180318] WHERE category = "work"`
+
+	}
+
+	let test;
+
+	function preload(){
+		// get count
+		httpGet(encodeQuery(datasetteUrl, myQueries.automatedCount, "json"), "json", function(data){
+			console.log(data);
+		})
+
+		// get all work mails
+		httpGet(encodeQuery(datasetteUrl, myQueries.workMails, "json"), "json", function(data){
+			console.log(data);
+		})
+
+		// get all work mails using loadJSON
+		loadJSON(encodeQuery(datasetteUrl, myQueries.workMails, "json"), function(data){
+				// assign data to test
+				test = data;
+		})
+
+	}
+
+	// create a ShowCountViz object
+	let ShowCountViz;
+
+	function setup(){
+		createCanvas(500, 500);
+		textAlign(CENTER);
+		// make sure the preload for loadJSON worked!
+		console.log("hello", test)
+
+		// create a showCount Object
+		ShowCountViz = new ShowCount(test)
+		ShowCountViz.calculateCounts();
+
+	}
+
+
+	function draw(){
+		background(255)
+
+		// display the showCountviz
+		ShowCountViz.display();
+		// ShowCountViz.displayRandomYesNo();
+		
+	}
+
+
+	function encodeQuery(datasetteUrl,queryString, outputFormat){
+		return datasetteUrl + `.${outputFormat}?sql=` + encodeURI(queryString);
+	}
+
+
+	function ShowCount(_countData){
+		this.yesCount = 0;
+		this.noCount = 0;
+		this.countData = _countData;
+
+		this.calculateCounts = function(){
+			this.countData.rows.forEach(function(row, idx){
+				if(row[3] == "yes"){
+					this.yesCount++;
+				}else{
+					this.noCount++;
+				}
+			}, this)
+			console.log(this.yesCount, this.noCount)
+		}
+
+		this.display = function(){
+			// yes
+			ellipse( width*0.25, height/2,PI*(this.yesCount/2)**2, PI*(this.yesCount/2)**2)
+			textSize(PI*(this.yesCount/2)**2)
+			text("Yes", width*0.25, height/2)
+
+			// no
+			ellipse( width*0.75, height/2, PI*(this.noCount/2)**2, PI*(this.noCount/2)**2)
+			textSize(PI*(this.noCount/2)**2)
+			text("No", width*0.75, height/2)
+		}
+
+		this.displayRandomYesNo = function(){
+			// random yes/no
+			textSize(12)
+			this.countData.rows.forEach(function(row, idx){
+				text(row[3], random(width), random(height))
+			}, this)
+		}
+		
+	}
+
+
+</script>
+</body>
+</html>
