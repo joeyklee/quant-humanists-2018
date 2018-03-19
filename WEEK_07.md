@@ -1,7 +1,9 @@
 # WEEK `07`: 19 Mar 2018
 ##  Special Topics: Tracking at Scale
 
-This week in Quant Humanists, we will be exploring the domain of forced tracking and tracking at scale. We will examine situations when tracking is not a choice, but rather imposed on individuals through various institutions/organizations (e.g. via employers) and the implications of such granular tracking. 
+This week in Quant Humanists, we will be take a brief look into the domain of forced tracking and tracking at scale. We will examine situations when tracking is not a choice, but rather imposed on individuals through various institutions/organizations (e.g. via employers) and the implications of such granular tracking. 
+
+We will focus most of our attention today to our tutorial working with Datasette Publish and SQL queries. 
 
 ## PROGRAM
 
@@ -10,7 +12,7 @@ This week in Quant Humanists, we will be exploring the domain of forced tracking
 - Review of Week 6 Assignments
 - Short Presentation
 - [Tutorial: datasette publish](/practice/datasette-publish-tutorial/README.md)
-- [SLIDES URL]()
+- [SLIDES URL](https://docs.google.com/presentation/d/1HWXuj4RWY8uscwO-V27tMPZ-XIKRutfi2i5A6chwL0Q/edit?usp=sharing)
 
 **Project Highlight**:
 
