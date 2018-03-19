@@ -67,7 +67,7 @@
 
 			httpGet(url, 'json', false, function(response) {
 				console.log(response);
-				var jokeParagraph = createP(response.joke);
+				var jokeParagraph = createP(response.value.joke);
 				jokeBox.child(jokeParagraph);
 			});
 		}
