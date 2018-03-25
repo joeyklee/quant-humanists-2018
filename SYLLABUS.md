@@ -48,6 +48,7 @@ NOTE: the `ASSIGNMENT DUE` column indicates what is due on that week after havin
 |  <a href="WEEK_10.md" target="_blank">WEEK 10</a>  |  04/09/2018  | Special Topics| 1. Final Project mid-review pin-up  | N/A|
 | <a href="WEEK_1.md" target="_blank">WEEK 11</a>   |  04/16/2018  | *Final project development* | *Final project development*  | N/A |
 | <a href="WEEK_12.md" target="_blank">WEEK 12</a>   |  04/23/2018  | Last Class | Final Projects Due & Presentations | 🎉 |
+| <a href="FINAL-PROJECT-REFERENCES.md" target="_blank">FINAL PROJECT REFERENCES</a>   |  FINAL PROJECTS  | RESOURCES |  | 🤓 |
 
 
 
