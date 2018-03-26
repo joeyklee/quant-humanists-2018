@@ -52,6 +52,7 @@ Continue working on your final projects
 ### Optional but recommended: 
 - *About*: Create a style guide for your final project. 
 - It doesn't have to be as detailed as this [one](https://sunlightfoundation.com/2014/03/12/datavizguide/) but it should have a few main sections, and you might take a look at the [duo linguo style guide](https://www.duolingo.com/design/) for inspiration:
+- Resources on how to create a style guide can be found [here](FINAL-PROJECT-REFERENCES.md)
 
 - Minimum Solution:
     * Colors (hex values chosen)
