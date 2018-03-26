@@ -5,10 +5,16 @@ This week in Quant Humanists, we will take a look at the ever growing area of bi
 
 We will hear from [Brian Bot](https://brian-bot.github.io/) on some of these issues.
 
+We will also hear from [Daniel Goddemeyer](http://danielgoddemeyer.com/), principal of [OFFC](http://www.offc.co/web/about.php) about the [ethics of future products](https://interaction18.ixda.org/program/talk-imperfect-futures---the-hidden-ethics-of-tomorrows-products-goddemeyer-daniel/#speaker)
+
 ## PROGRAM
 
 - [Slides URL Here](https://docs.google.com/presentation/d/1SIt_mYrxvAXO8_Nxw8txpuTLivcVmcs9A2ZS5pr8Ydo/edit?usp=sharing)
 - Final Project Proposal Critique & Feedback
+- Guest Speaker: Daniel Goddemeyer:
+    + Web: http://danielgoddemeyer.com/
+    + OFFC: http://www.offc.co/web/about.php
+    + Twitter: https://twitter.com/dgoddemeyer
 - Guest Speaker: Brian Bot:
     + Web: https://brian-bot.github.io/
     + Github: https://github.com/brian-bot
@@ -43,8 +49,8 @@ Katie McCurdy [Health Tracking Visualizations](http://katiemccurdy.com/portfolio
 
 Continue working on your final projects
 
-### Optional
-- *About*: Create a stylesheet for your final project. 
+### Optional but recommended: 
+- *About*: Create a style guide for your final project. 
 - It doesn't have to be as detailed as this [one](https://sunlightfoundation.com/2014/03/12/datavizguide/) but it should have a few main sections, and you might take a look at the [duo linguo style guide](https://www.duolingo.com/design/) for inspiration:
 
 - Minimum Solution:
