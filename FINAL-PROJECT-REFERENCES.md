@@ -18,7 +18,7 @@ Here's a few presentations for your reference:
 * [Azure Grant: “Hot Stuff: Body Temperature and Ovulatory Cycles” // Quantified Self Meetup](https://vimeo.com/groups/quantifiedself/videos/223696336)
 
 
-### STYLESHEETS
+### STYLE GUIDES
 
 How to create a stylesheet
 
