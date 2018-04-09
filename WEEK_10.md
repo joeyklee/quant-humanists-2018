@@ -57,6 +57,7 @@ Jonathan Harris [Whale Hunt](http://thewhalehunt.org/)
 - [The Era of Fake Video Begins](https://www.theatlantic.com/magazine/archive/2018/05/realitys-end/556877/)
 - [Privacy Pamphlet by Shawn Buckles](http://shawnbuckles.nl/privacypamphlet/
 )
+- [Dries Depoorter, TinderIn](https://creators.vice.com/en_us/article/wnp4gb/an-artist-is-putting-tinder-and-linkedin-profile-pics-side-by-side) NOTE: There are responsible ways of doing work like this. There are a number of problematic things that pop up here (e.g. `“No, these women do not know they’re part of the project. I didn’t ask their permission,” he says. “I know it’s a bit bad, but I could not resist.`). [Ingrid Burrington has some more thoughts on this on "conflating art and journalism"](http://lifewinning.com/2016/09/07/doing-a-journalisms.html)
 
 ## ASSIGNMENT
 
