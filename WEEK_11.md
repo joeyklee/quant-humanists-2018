@@ -12,7 +12,7 @@ we will have a look at how we evaluate ourselves, from which lenses we see ourse
 
 - Final Project Mid-reviews
 - Course Evaluations! 
-- [SLIDES URL]()
+- [SLIDES URL](https://docs.google.com/presentation/d/1HAX3qve-JgE4iAGJLTD1T6UEdxM231xgIsowFo1PcqQ/edit?usp=sharing)
 
 
 ## READINGS
