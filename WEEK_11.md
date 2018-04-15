@@ -4,9 +4,7 @@
 
 This week in Quant Humanists, we are going to do a group feedback session for our upcoming final projects (next week!). 
 
-<!-- 
-we will have a look at how we evaluate ourselves, from which lenses we see ourselves and the world, how data can reinforce or upend our biases, and what it means scope our self-analyses so that they are accessible and understandable to others in the community. 
- -->
+We will also have a look at how we evaluate ourselves, from which lenses we see ourselves and the world, how data can reinforce or upend our biases, and what it means to scope our self-analyses so that they are accessible and understandable to others in the community. 
 
 ## PROGRAM
 
