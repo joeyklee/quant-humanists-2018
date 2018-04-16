@@ -1,5 +1,5 @@
 # WEEK `11`: 16 APRIL 2018
-##  Special Topics: Final Project Mid-term reviews
+##  Special Topics: Final Project Mid-term reviews // Bias, Testing, and Community
 <!-- ##  Special Topics: Bias, Testing, and Community -->
 
 This week in Quant Humanists, we are going to do a group feedback session for our upcoming final projects (next week!). 
