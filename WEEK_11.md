@@ -20,6 +20,7 @@ We will also have a look at how we evaluate ourselves, from which lenses we see 
 - Hudson, Laura., [Technology is biased too. How do we fix it?](https://fivethirtyeight.com/features/technology-is-biased-too-how-do-we-fix-it/)
 - Simonite, Tom., [Machines taught by photos to learn a sexist view of women](https://www.wired.com/story/machines-taught-by-photos-learn-a-sexist-view-of-women/)
 - Karppi, Tero., [Digital Suicide and the Biopolitics of Leaving Facebook](www.transformationsjournal.org/wp-content/uploads/2016/12/Karppi_Trans20.pdf)
+- [Propublica, Machine Bias](https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you)
 
 ## ADDITIONAL RESOURCES
 - Turkle, Sherry., [Introduction: The things that matter (3-10)](https://llk.media.mit.edu/courses/readings/Turkle-EO-intro.pdf)
