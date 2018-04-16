@@ -26,4 +26,6 @@ We will also have a look at how we evaluate ourselves, from which lenses we see 
 - Turkle, Sherry., [Introduction: The things that matter (3-10)](https://llk.media.mit.edu/courses/readings/Turkle-EO-intro.pdf)
 - Lee, Kai Fu., [A blueprint for coexistence with artificial intelligence](https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence/)
 - Rahwan, Iyad., [Society-in-the-loop: programming the algorithmic social contract](https://arxiv.org/pdf/1707.07232.pdf)
+- Wired., [Big data meets Big Brother as China moves to rate its citizens](http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion)
+- Foucault., [Philosophical Historian](https://www.youtube.com/watch?v=BBJTeNTZtGU) // [Foucault & Chomsky](https://youtu.be/kawGakdNoT0?t=3m42s )
 
