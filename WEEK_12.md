@@ -3,13 +3,23 @@
 
 This week in Quant Humanists, we will have the final presentations, crit, and feedback for the projects we’ve been developing over the last few weeks. 
 
+Also, Pizza! 
+
 ## PROGRAM
 - final project presentations. 
 - Agenda:
-    - Person 1:
-    - Person 2:
-    - Person 3:
-    - Person 4:
-    - Person 5:
-    - …
+    + **Observation**
+        * Krizia
+        * Miki
+        * Chloe
+        * Jenna
+    + **Immersion**
+        * William
+        * Dasha
+    + **Communication**
+        * Xiran
+        * Alice
+        * Harshita
+    + **Speculation**
+        + Mengzhen
 
