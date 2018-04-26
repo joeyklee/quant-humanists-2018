@@ -1,0 +1,202 @@
+/*
+font-family: Hoefler Text;
+font-family: Abel; 
+
+
+*/
+
+html,body{
+	margin:0;
+	width:100%;
+	height:100%;
+	background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+	box-sizing: border-box;
+}
+
+
+h1{
+	margin:0;
+	font-size:144px;
+	font-weight:bold;
+	font-family: Hoefler Text;
+}
+h2{
+	margin:0;
+	font-size:120px;
+	font-weight:bold;
+	font-family: Hoefler Text;
+}
+
+h3{
+	margin:0;
+	font-size:36px;
+	font-weight: normal;
+	font-family: Hoefler Text;
+}
+
+h4{
+	margin:0;
+	font-size:24px;
+	font-weight:bold;
+	font-family: Hoefler Text;
+}
+h5{
+	margin:0;
+	font-size:24px;
+	font-weight:normal;
+	font-family: Hoefler Text;
+}
+h6{
+	margin:0;
+	font-size:20px;
+	font-family: Hoefler Text;
+}
+
+p{
+	margin:0;
+	font-size:14px;
+	font-family: Abel, sans-serif; 
+}
+
+
+.container{
+	width:100%;
+	height:100%;
+	padding:20px 20px 20px 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	color:white;
+	box-sizing: border-box;
+}
+
+.pad5{
+	padding-right:5px;
+}
+
+header{
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.title{
+	flex-basis:25%;
+}
+.hashtags{
+	flex-basis:25%;
+}
+
+main{
+	width:100%;
+}
+
+section{
+	display: flex;
+	width:100%;
+}
+
+section .first{
+	width:100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: flex-start
+	
+}
+
+section .second{
+	width:100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: flex-start
+	padding-bottom: 40px;
+}
+
+.info{
+	display: flex;
+	flex-direction: column;
+	width:25%;
+	padding-bottom: 40px;
+}
+.info-header{
+	width:100%;
+
+}
+.info-header hr{
+		border: 0;
+    height: 4px;
+    background: white;
+}
+
+.info-content{
+	display: flex;
+	flex-direction: column;
+}
+
+.info-chart{
+	display: flex;
+	flex-direction: column;
+	width:100%;
+	justify-content: flex-start;
+	align-items: flex-start;
+	padding-bottom: 20px;
+}
+.chart-container{
+	width:100%;
+	border:2px solid white;
+	min-height:250px;
+	box-sizing: border-box;
+}
+
+
+.featured-projects{
+	display: flex;
+	flex-direction: column;
+	width:75%;
+}
+
+.project-info{
+	width:30%;
+	height:100%;
+	padding:10px;
+	background-color: #28BBE4;
+	position: absolute;
+	top:0;
+	right:0;
+}
+
+.feature-swiper{
+	width: 100%;
+	height:100%;
+}
+.swiper-container {
+    max-width: 100%;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .swiper-slide {
+    background-size: cover;
+    background-position: center;
+  }
+  .gallery-top {
+    height: 80%;
+    width: 100%;
+  }
+  .gallery-thumbs {
+    height: 20%;
+    box-sizing: border-box;
+    padding: 10px 0;
+  }
+  .gallery-thumbs .swiper-slide {
+    width: 25%;
+    height: 100%;
+    opacity: 0.4;
+  }
+  .gallery-thumbs .swiper-slide-active {
+    opacity: 1;
+  }
