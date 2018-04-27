@@ -294,11 +294,11 @@ $(document).ready(function() {
         name:"practice",
         type: 'lines+markers',
         marker: {
-          color: 'red',
+          color: '#D80B8C',
           size: 8
         },
         line: {
-          color: 'red',
+          color: '#D80B8C',
           width: 4
         }
       };
@@ -308,11 +308,11 @@ $(document).ready(function() {
         name:"readings",
         type: 'lines+markers',
         marker: {
-          color: 'orange',
+          color: '#570bd8',
           size: 8
         },
         line: {
-          color: 'orange',
+          color: '#570bd8',
           width: 4
         }
       };
@@ -323,11 +323,11 @@ $(document).ready(function() {
         name:"additional",
         type: 'lines+markers',
         marker: {
-          color: 'yellow',
+          color: 'black',
           size: 8
         },
         line: {
-          color: 'yellow',
+          color: 'black',
           width: 4
         }
       };
