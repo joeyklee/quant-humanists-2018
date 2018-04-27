@@ -291,6 +291,7 @@ $(document).ready(function() {
       let trace1 = {
         x: x1,
         y: y1,
+        name:"practice",
         type: 'lines+markers',
         marker: {
           color: 'red',
@@ -304,6 +305,7 @@ $(document).ready(function() {
       let trace2 = {
         x: x1,
         y: y2,
+        name:"readings",
         type: 'lines+markers',
         marker: {
           color: 'orange',
@@ -318,6 +320,7 @@ $(document).ready(function() {
       let trace3 = {
         x: x1,
         y: y3,
+        name:"additional",
         type: 'lines+markers',
         marker: {
           color: 'yellow',

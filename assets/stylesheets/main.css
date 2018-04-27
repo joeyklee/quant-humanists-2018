@@ -204,3 +204,16 @@ section.second{
   .gallery-thumbs .swiper-slide-active {
     opacity: 1;
   }
+
+
+   #assignment-beat{
+   	display: flex;
+   	flex-direction: column;
+   	justify-content: center;
+   	align-items: center;
+   }
+
+  #assignment-beat img{
+  	width:100%;
+  	height:auto;
+  }
