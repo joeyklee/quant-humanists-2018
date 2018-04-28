@@ -1,6 +1,10 @@
 // $(window).on('load', function() {
 $(document).ready(function() {
 
+  const d3 = Plotly.d3;
+  const WIDTH_IN_PERCENT_OF_PARENT = 100,
+        HEIGHT_IN_PERCENT_OF_PARENT = 100;
+
   const Header = (function() {
 
     // var $wndwHght, $bnnr, $loader;
@@ -25,11 +29,16 @@ $(document).ready(function() {
 
   const About = (function() {
 
+    
+
     const init = function() {
       buildChart();
     };
 
     var buildChart = function() {
+
+      let gd3 = d3.select('#slides-per-week')
+      let gd = gd3.node();
 
       let data = {
         "slidesPerWeek": {
@@ -88,7 +97,11 @@ $(document).ready(function() {
         }
       };
 
-      Plotly.newPlot('slides-per-week', [trace1], layout, { displayModeBar: false });
+      Plotly.plot(gd, [trace1], layout, { displayModeBar: false });
+
+      d3.select(window).on('resize.about', function () { 
+        Plotly.Plots.resize(gd)
+      });
     }
 
     return {
@@ -100,11 +113,16 @@ $(document).ready(function() {
 
   const Interests = (function() {
 
+
     const init = function() {
       buildChart();
     };
 
     var buildChart = function() {
+
+      let gd3 = d3.select('#departments-represented')
+      let gd = gd3.node();
+
 
       let data = {
         "departmentsRepresented": {
@@ -154,7 +172,10 @@ $(document).ready(function() {
         }
       };
 
-      Plotly.newPlot('departments-represented', [trace1], layout, { displayModeBar: false });
+      Plotly.plot(gd, [trace1], layout, { displayModeBar: false });
+      d3.select(window).on('resize.interests', function () { 
+        Plotly.Plots.resize(gd)
+      });
     }
 
     return {
@@ -184,6 +205,9 @@ $(document).ready(function() {
 
 
   const Materials = (function() {
+
+    var gd3= d3.select("#resource-chart")
+    var gd = gd3.node();
 
     const init = function() {
       buildChart();
@@ -286,7 +310,7 @@ $(document).ready(function() {
       var y1 = Object.values(data.contentBreakdown).map(week => (week.practice))
       var y2 = Object.values(data.contentBreakdown).map(week => (week.readings))
       var y3 = Object.values(data.contentBreakdown).map(week => (week.additional))
-      console.log(y1)
+      // console.log(y1)
 
       let trace1 = {
         x: x1,
@@ -334,7 +358,11 @@ $(document).ready(function() {
 
 
 
-      Plotly.newPlot('resource-chart', [trace1, trace2, trace3], layout, { displayModeBar: false });
+      Plotly.plot(gd, [trace1, trace2, trace3], layout, { displayModeBar: false });
+
+      d3.select(window).on('resize.materials', function () { 
+        Plotly.Plots.resize(gd)
+      });
     }
 
     return {
