@@ -1,7 +1,5 @@
 // $(window).on('load', function() {
-// $(document).ready(function() {
-
-window.onload = (function(){
+$(document).ready(function() {
 
 
   const d3 = Plotly.d3;
@@ -416,4 +414,4 @@ window.onload = (function(){
   Locations.init();
   Materials.init();
   ProjectSwiper.init();
-})();
+});
