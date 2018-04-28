@@ -106,7 +106,7 @@ main{
 section{
 	display: flex;
 	width:100%;
-	height:100%;
+	/*height:100%;*/
 }
 
 section.first{
@@ -185,7 +185,7 @@ section.second{
 .feature-swiper{
 	width: 100%;
 	min-height:100%;
-	height:90vh;
+	height:60vh;
 }
 .swiper-container {
     width: 100%;
@@ -202,7 +202,7 @@ section.second{
     width: 100%;
   }
   .gallery-thumbs {
-    height: 30%;
+    height: 25%;
     box-sizing: border-box;
     padding: 10px 0;
   }
