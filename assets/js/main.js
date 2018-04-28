@@ -1,5 +1,5 @@
-// $(window).on('load', function() {
-$(document).ready(function() {
+$(window).on('load', function() {
+// $(document).ready(function() {
 
   const d3 = Plotly.d3;
   const WIDTH_IN_PERCENT_OF_PARENT = 100,
