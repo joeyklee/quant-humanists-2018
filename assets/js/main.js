@@ -2,6 +2,7 @@
 // $(document).ready(function() {
 window.onload = (function(){
 
+  console.log(Plotly)
 
   const d3 = Plotly.d3;
   const WIDTH_IN_PERCENT_OF_PARENT = 100,
