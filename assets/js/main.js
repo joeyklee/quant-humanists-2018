@@ -1,34 +1,8 @@
-// $(window).on('load', function() {
-// $(document).ready(function() {
 window.onload = (function(){
-
-  console.log(Plotly)
 
   const d3 = Plotly.d3;
   const WIDTH_IN_PERCENT_OF_PARENT = 100,
         HEIGHT_IN_PERCENT_OF_PARENT = 100;
-
-  // const Header = (function() {
-
-  //   // var $wndwHght, $bnnr, $loader;
-
-  //   const init = function() {
-  //     loadElements();
-  //   };
-
-  //   var loadElements = function() {
-  //     // $bnnr = $('#banner');
-  //     // $loader = $('.loader');
-  //     console.log("hello")
-  //   };
-
-
-  //   return {
-  //     init: init
-  //   }
-
-
-  // })();
 
   const About = (function() {
 

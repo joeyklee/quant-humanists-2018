@@ -197,6 +197,14 @@ section.second{
     background-size: cover;
     background-position: center;
   }
+  .project-image{
+  	background-repeat: no-repeat;
+  	background-position: left; 
+	 background-size:auto  100% ;
+
+    width:100%;
+    height:100%;
+  }
   .gallery-top {
     height: 70%;
     width: 100%;
