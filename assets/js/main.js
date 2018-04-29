@@ -1,5 +1,6 @@
 // $(window).on('load', function() {
-$(document).ready(function() {
+// $(document).ready(function() {
+window.onload = (function(){
 
 
   const d3 = Plotly.d3;
@@ -29,8 +30,6 @@ $(document).ready(function() {
   // })();
 
   const About = (function() {
-
-    
 
     const init = function() {
       buildChart();
@@ -414,4 +413,4 @@ $(document).ready(function() {
   Locations.init();
   Materials.init();
   ProjectSwiper.init();
-});
+})();
