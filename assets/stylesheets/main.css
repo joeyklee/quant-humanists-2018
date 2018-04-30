@@ -264,6 +264,21 @@ section.second{
     background-size:auto  100% ;*/
   }
 
+footer{
+	position: relative;
+	margin:0;
+	bottom:0;
+	width: 100%;
+	min-height:60px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	text-align: center;
+	color:white;
+	border-top: 4px solid white;
+	padding:10px 0px 10px 0px;
+}
 
 
   @media screen and (max-width: 1000px){
@@ -289,6 +304,10 @@ section.second{
 		}
 
   	section.second{
+  		flex-direction: column;
+  	}
+
+  	footer{
   		flex-direction: column;
   	}
   	
