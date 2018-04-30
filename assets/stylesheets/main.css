@@ -89,6 +89,7 @@ p{
 
 header{
 	width: 100%;
+	height:auto;
   min-height: 150px;
 	display: flex;
 	flex-direction: row;
@@ -98,6 +99,7 @@ header{
 
 .title{
 	flex-basis:25%;
+	padding-right:10px;
 }
 .hashtags{
 	flex-basis:25%;
@@ -317,6 +319,14 @@ footer{
 
   	footer{
   		flex-direction: column;
+  	}
+
+  	header{
+			flex-direction:column;
+			min-height:260px;
+			justify-content: flex-start;
+			align-items: flex-start;
+
   	}
   	
   }
