@@ -216,8 +216,8 @@ window.onload = (function(){
       // call initMap()
       initMap();
 
-      L.circle([40.729359, -73.993831], 400).addTo(map);
-      L.circle([40.763143, -73.967646], 400).addTo(map);
+      L.circle([40.729359, -73.993831], 400, {color:"#D80B8C"}).addTo(map);
+      L.circle([40.763143, -73.967646], 400, {color:"#D80B8C"}).addTo(map);
               
     }
 
