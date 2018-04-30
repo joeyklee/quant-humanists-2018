@@ -38,25 +38,39 @@ window.onload = (function(){
         plot_bgcolor: 'rgba(255,255,255,0)',
         paper_bgcolor: 'rgba(255,255,255,0)',
         margin: {
-          l: 0,
-          r: 0,
-          b: 0,
-          t: 0,
-          pad: 4
+          l: 30,
+          r: 20,
+          b: 30,
+          t: 5,
+          pad: 0
         },
         xaxis: {
+          autotick:true,
           showgrid: false,
+          range: [1, 12],
+          ticks:"inside",
+          rangemode: 'tozero',
+          color:"#ffffff",
           zeroline: true,
           zerolinecolor: '#FFFFFF',
-          zerolinewidth: 4
+          zerolinewidth: 1,
+          showline: true,
+          autotick: false,
         },
         yaxis: {
+          showticklabels: true,
+          autotick:true,
           showgrid: false,
-          zeroline: true,
+          ticks:"inside",
+          rangemode: 'tozero',
+          color:"#ffffff",
+          zeroline: false,
           zerolinecolor: '#FFFFFF',
-          zerolinewidth: 4
+          zerolinewidth: 1,
+          showline: true
         }
       };
+
 
       let trace1 = {
         x: Object.keys(data.slidesPerWeek),
@@ -118,23 +132,31 @@ window.onload = (function(){
           r: 10,
           b: 30,
           t: 20,
-          pad: 4
+          pad: 0
         },
         xaxis: {
+           autotick:true,
           showgrid: false,
+          ticks:"inside",
+          rangemode: 'tozero',
+          color:"#ffffff",
           zeroline: true,
           zerolinecolor: '#FFFFFF',
-          zerolinewidth: 4,
-          labelcolor: '#FFFFFF',
-          color: '#FFFFFF'
+          zerolinewidth: 1,
+          showline: true,
+          autotick: false,
         },
         yaxis: {
+          showticklabels: true,
+          autotick:true,
           showgrid: false,
-          zeroline: true,
+          ticks:"inside",
+          rangemode: 'tozero',
+          color:"#ffffff",
+          zeroline: false,
           zerolinecolor: '#FFFFFF',
-          zerolinewidth: 4,
-          labelcolor: '#FFFFFF',
-          color: '#FFFFFF'
+          zerolinewidth: 1,
+          showline: true
         }
       };
 
@@ -260,24 +282,38 @@ window.onload = (function(){
         showlegend: false,
         plot_bgcolor: 'rgba(255,255,255,0)',
         paper_bgcolor: 'rgba(255,255,255,0)',
+        color:'white',
         margin: {
-          l: 0,
-          r: 0,
-          b: 0,
-          t: 0,
-          pad: 4
+          l: 26,
+          r: 10,
+          b: 26,
+          t: 5,
+          pad: 0
         },
         xaxis: {
+         autotick:true,
           showgrid: false,
+          range: [1, 12],
+          ticks:"inside",
+          rangemode: 'tozero',
+          color:"#ffffff",
           zeroline: true,
           zerolinecolor: '#FFFFFF',
-          zerolinewidth: 4
+          zerolinewidth: 1,
+          showline: true,
+          autotick: false,
         },
         yaxis: {
+          showticklabels: true,
+          autotick:true,
           showgrid: false,
-          zeroline: true,
+          ticks:"inside",
+          rangemode: 'tozero',
+          color:"#ffffff",
+          zeroline: false,
           zerolinecolor: '#FFFFFF',
-          zerolinewidth: 4
+          zerolinewidth: 1,
+          showline: true
         }
       };
 
