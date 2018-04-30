@@ -160,6 +160,7 @@ section.second{
 	display: flex;
 	flex-direction: column;
 	width:100%;
+	min-height: 250px;
 	justify-content: flex-start;
 	align-items: flex-start;
 	padding-bottom: 20px;
@@ -179,6 +180,7 @@ section.second{
 
 
 .featured-projects{
+	position: relative;
 	display: flex;
 	flex-direction: column;
 	width:75%;
@@ -285,21 +287,27 @@ footer{
   	section.first{
   		flex-direction: column;
   	}
-  	.info{
+  	.info, .info-content, .info-chart {
   		width:100%;
+  		height: 100%;
   	}
+  	.info-content h6{
+  		margin-top:20px;
+  	}
+
   	.featured-projects{
   		width:100%;
   		min-height:80vh;
   	}
 
   	.project-info{
-			width:30%;
-			height:100%;
+			width:100%;
+			height:auto;
 			padding:10px;
 			background-color: #0fb8ad;
 			position: absolute;
-			top:0;
+			top:auto;
+			bottom:0;
 			left:0;
 		}
 
