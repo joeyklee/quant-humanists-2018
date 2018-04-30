@@ -184,14 +184,41 @@ window.onload = (function(){
 
   const Locations = (function() {
 
+    var map;
+
     const init = function() {
       buildChart();
     };
 
     var buildChart = function() {
 
-      // do the stuffs!
-      console.log("build map here")
+      function initMap(){
+          // initialize map container
+          map = L.map('location-image').setView([40.742431, -73.975334], 11);
+
+          // get the stamen toner-lite tiles
+          var Stamen_Toner = L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}.{ext}', {
+              attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> — Map data © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+              subdomains: 'abcd',
+              minZoom: 0,
+              maxZoom: 20,
+              ext: 'png'
+          });
+
+          // add the tiles to the map
+          Stamen_Toner.addTo(map); 
+
+          //disable scroll wheel zoom 
+          map.scrollWheelZoom.disable();
+           map.dragging.disable();
+           map.removeControl(map.zoomControl);
+      }
+      // call initMap()
+      initMap();
+
+      L.circle([40.729359, -73.993831], 400).addTo(map);
+      L.circle([40.763143, -73.967646], 400).addTo(map);
+              
     }
 
     return {
@@ -199,6 +226,7 @@ window.onload = (function(){
     }
 
   })();
+
 
 
   const Materials = (function() {
